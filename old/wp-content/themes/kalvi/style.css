@@ -1,0 +1,265 @@
+/*
+Theme Name: Kalvi
+Theme URI: http://kalvi.wpengine.com/
+Author: the DesignThemes team
+Author URI: http://themeforest.net/user/designthemes
+Description: Kalvi
+Version: 3.5
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: kalvi
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/***********sourabh css custom*****************/
+.aboutForm {
+    background: linear-gradient(45deg,#6fe9bc,#d70015) !important;
+    padding: 15px 26px 25px;
+    border-radius: 15px;
+	display: grid;
+}
+.aboutForm h3 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.aboutForm input, select {
+    border: 1px solid #fff !important;
+    background: #fff !important;
+	border-radius:5px !important
+}
+.aboutForm input.wpcf7-form-control.wpcf7-submit {
+    background: #000 !important;
+    border: 1px solid #000 !important;
+    border-radius: 0px;
+    display: table;
+    margin: auto;
+       margin-top: 0px;
+    margin-bottom: 0px !important;
+}
+.aboutForm input {
+    margin-bottom: 15px !important;
+}
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: #000 !important;
+}
+
+input:-moz-placeholder,
+textarea:-moz-placeholder {
+  color: #000 !important;
+}
+.line {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    background-color: #333;
+    width: 70px;
+    top:-10px
+}
+
+
+.icondesign .aio-icon-default {
+    margin: auto;
+    display: table !important;
+}
+
+.icondesign .aio-icon {
+    height: 90px !important;
+    width: 90px !important;
+    background: #061630;
+    line-height: 90px !important;
+    color: #fff !important;
+    border-radius: 50%;
+}
+.dt-sc-toggle-accordion a {
+    color: white !important;
+    font-weight: 800;
+    font-size: 17px;
+}
+.footerbg{
+	background-color: #1b1e22;
+} 
+.footerbg ul#menu-important-link li a {
+    color: white !important;
+}
+#footer p, a {
+    color: #fff;
+}
+
+.dt-sc-contact-info {
+    color: #fff;
+}
+#footer .footer18-title {
+    font-size: 22px;
+    color: #fff;
+}
+#footer a {
+    color: #fff !important;
+}
+.fa-lastfm:before {
+    content: "\002F" !important;
+}
+.icondesign .style_1 {
+    box-shadow: 0 0 6px 0 #625656;
+    height: 290px;
+    padding: 20px;
+}
+.icondesign .default-icon .aio-icon-header {
+    display: unset;
+    vertical-align: middle;
+    text-align: center;
+}
+.icondesign .aio-icon-title {
+    font-size: 24px !important;
+}
+.fullwidth {
+    background-image: url("https://professionhike.com/wp-content/uploads/2022/12/bg.jpg");
+    background-position: center;
+    clear: both;
+    padding: 80px 50px;
+    color: #fff;
+}
+
+.fleftcontent h1 {
+    color: #fff;
+}
+.fleftcontent .thim-widget-icon-box.template-base {
+    margin: 40px 0px;
+}
+.iconbox-left .boxes-icon {
+    float: left;
+    margin-right: 15px;
+}
+.fleftcontent .inner-icon {
+    display: table;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    table-layout: fixed;
+}
+.fleftcontent .inner-icon .icon {
+    display: table-cell;
+    vertical-align: middle;
+    -webkit-transition: background 0.2s, color 0.2s;
+    -moz-transition: background 0.2s, color 0.2s;
+    transition: background 0.2s, color 0.2s;
+}
+.fleftcontent .heading__primary{
+	color: #ffffff;font-size: 20px; line-height: 20px;font-weight: bold; margin-bottom: 12px;
+}
+.fleftcontent .content-inner{
+	width: calc( 100% - 85px - 15px);
+}
+.fleftcontent .desc-content{
+	font-size: 16px;line-height: 23px;
+}
+.fleftcontent .icon i {color:#ffffff; font-size:40px; line-height:40px; vertical-align: middle;}
+.fleftcontent .boxes-icon{
+	width: 85px;height: 75px;
+}
+.wpcf7-form-control-wrap:before{
+	display:none !important;
+}
+.innerpageform {
+    background: #fff;
+    padding: 30px 20px 55px 20px;
+    border-radius: 15px;
+	    display: grid;
+}
+.innerpageform input, text, select {
+    margin-bottom: 15px !important;
+    border: 1px solid #018452 !important;
+    border-radius: 5px !important;
+}
+
+.innerpageform h3 {
+    text-align: center;
+}
+.innerpageform .wpcf7-submit {
+    background: #000 !important;
+    border-radius: 0px !important;
+    
+}
+ .selection-box:before {
+	top: -16px !important;
+}
+.selection-box:after {
+    height: calc(100% - 17px) !important;
+}
+.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active>a {
+    border-color: #ffffff !important;
+    background-color: #3a4a59 !important;
+    color: #fff !important;
+}
+.vc_tta.vc_tta-spacing-1 .vc_tta-tab {
+    width: 23%;
+}
+.vc_tta.vc_tta-spacing-1 .vc_tta-tab a {
+    color: #000 !important;
+}
+.topfooter ul li a i {
+    display: none !important;
+}
+.topfooter ul {
+    padding-left: 13px;
+}
+
+.topfooter ul li a {
+    padding: 0px;
+}
+.topfooter ul li {
+    display: inline-block !important;
+    width: auto !important;
+    border-right: outset !important;
+    height: 14px;
+    line-height: 7px;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+.dt-sc-testimonial.type8 .dt-sc-testimonial-quote blockquote q {
+    font-size: 16px;
+    line-height: 30px;
+}
+.contactus .dt-sc-contact-info {
+    color: #000000;
+	line-height: 23px;
+}
+@media(max-width:769px){
+	.innerpageform {
+    padding: 30px 20px 5px 20px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+	.innerpageform input, text, select {
+    margin-bottom: 0px !important;
+}
+	.fleftcontent .content-inner {
+    width: calc( 100% - 0px - 0px);
+}
+	.fullwidth {
+    background-position: top;
+    padding: 20px 0px;
+}
+	h1 {
+    font-size: 30px !important;
+	}
+.icondesign .style_1 {
+    box-shadow: 0 0 6px 0 #625656;
+    height: auto;
+    padding: 20px;
+}	
+}
+@media (min-width: 768px){
+.vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels, .vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels::after, .vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels::before {
+    border-color: #ffffff !important;
+}
+}
+@media (min-width: 768px){
+.vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels {
+    background-color: #ffffff !important;
+}
+}

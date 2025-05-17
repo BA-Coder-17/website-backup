@@ -1,0 +1,424 @@
+/*
+ Table Of Contents
+ 1.) Media Query for Handheld Devices
+ 2.) Media Query for Tablet
+ 3.) Media Query for mobile
+ ===============================================*/
+
+/*
+ 1.) Media Query for Handheld Devices
+ ===============================*/
+
+ @media only screen and (max-width:1169px){
+    /* platform_text */
+    .platform_wrapper figure{
+        width:calc(100% - 350px);
+    }
+    .platform_text{
+        width:350px;
+    }
+    /* College Fnder */
+    .box_cell {
+        width: 25%;
+    }
+    .box_wrapper{
+        justify-content: center;
+    }
+    /* popular_college */
+    .popular_college .slick-next {
+        right: 20px;
+        z-index: 99;
+    }
+    .popular_college .slick-prev {
+        left: 20px;
+        z-index: 99;
+    }
+    .latest_new .slick-next {
+        right: 20px;
+        z-index: 99;
+        top: 100px;
+    }
+    .latest_new .slick-prev {
+        left: 20px;
+        z-index: 99;
+        top: 100px;
+    }
+    /* Banner */
+    .overlay_content h2{
+        font-size: 30px;
+    }
+}
+@media only screen and (max-width:1024px){
+    .logo1 a img {
+        margin-left: 10px;
+        max-width: 100%;
+        width: auto;
+    }
+    .searchContent {
+        z-index: 999999;
+    }
+    nav>ul>li.last .login a, nav>ul>li.last .login button{
+        display: none;
+    }
+    #header nav {
+        z-index: 99999;
+    }
+    nav li.userLogin .userName, nav ul>li>ul {
+        top: 0px;
+    }
+    .card1{
+        width: 200px;
+    }
+}
+
+/*
+ 2.) Media Query for Tablet
+ ===============================*/
+ @media only screen and (max-width:992px){
+    /* platform_text */
+    .platform_wrapper figure{
+        width:calc(100% - 250px);
+    }
+    .platform_text{
+        width:250px;
+    }
+
+    /* Feature */
+
+    .card1{
+        width: 225px;
+        margin-bottom: 10px;
+        overflow-x: hidden;
+    }
+    .feature_wrapper{
+        padding:20px 0;
+        width: 100%;
+        height: auto;
+    }
+    .feature_cell a{
+        padding:0 10px;
+    }
+    .feature_cell h6{
+        font-size:12px;
+    }
+
+    /* blog_news_college */
+    .list_cell_wrapper{
+        width:100%;
+    }
+}
+
+
+/*
+ 3.) Media Query for mobile
+ ===============================*/
+
+ @media only screen and (max-width:767px){
+    .sharing-icons {
+        flex-direction:column;
+    }
+     #header .menu .cour{
+         padding:10px;
+     }
+     .card-blog{
+         margin:0px;
+         
+     }
+     .card-blogs{
+         grid-template-column:none !important;
+     }
+    /* platform_text */
+    .platform_wrapper figure{
+        width:100%;
+        text-align: center;
+        padding: 10px;
+    }
+    .platform_text{
+        width:100%;
+        margin:0 0  30px;
+        text-align: center;
+    }
+    .video_platform{
+        padding:0 0 50px;
+    }
+    /* counselling */
+    .cell_wrapper{
+        justify-content: flex-start;
+    }
+    .cell_wrapper .cell {
+        width: calc(33.33% - 20PX);
+        margin: 10px;
+    }
+
+    .coutry_cell {
+        width: 33.33%;
+        margin: 0 0 20px;
+    }
+
+    /* Study Abroad */
+    .study_abroad h4 {
+        font-size: 20px;
+        line-height: 1.2;
+    }
+    .study_abroad h3{
+        font-size:30px;
+    }
+    .counselling h4 {
+
+        font-size: 24px;
+        line-height: 32px;
+        margin: 0 0 20px;
+    }
+    /* College Fnder */
+
+    .collegefinder h3 {
+        /*font-size: 20px;*/
+        margin: 0 0 10px;
+    }
+    .collegefinder h2{
+        font-size: 30px;
+    }
+    /* Feature
+    */
+
+    .feature_wrapper{
+        transform: none;
+    }
+    .feature_wrapper{
+        padding:5px 0;
+        margin-left: 0px;
+    }
+    .feature_cell
+    {width: 45%;
+        margin-bottom: 20px;
+
+    }
+    section.feature_list {
+        padding: 30px 0;
+    }
+    /* Facility */
+    .facility_cell {
+        width: 50%;
+        padding: 10px;
+    }
+    .loan_facility h2{
+        font-size:26px;
+    }
+    .loan_facility h3{
+        font-size: 20px;
+        margin:0 0 20px;
+    }
+    /* popular_college */
+    .popular_college .slick-next {
+        right: 20px;
+        z-index: 99;
+    }
+    .popular_college .slick-prev {
+        left: 20px;
+        z-index: 99;
+    }
+     /* Banner */
+    .overlay_content h2{
+        font-size: 16px;
+        line-height: 1.3;
+        padding-top: 38px;
+    }
+
+    .logo1 a img {
+        margin-left: 10px;
+        max-width: 100%;
+        width: 100px;
+        height: auto;
+    }
+    header.nav-down .logo1 a{
+        height:auto;
+    }
+    button.menu span {
+        margin: 11px 12px;
+
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+      top: 50px;
+      width: 30px;
+      height: 30px;
+      left: -15px;
+    }
+    .card3 {
+        width: 225px;
+    }
+    .owl-carousel .owl-nav button.owl-next {
+        top: 50px;
+        width: 30px;
+        height: 30px;
+        right: -15px !important;
+      }
+    .exam-list .online_course li{
+        margin: 0px 18px 0px -9px;
+    }
+    .tab_wrap .tab-content{
+         overflow:auto;
+    }
+    .ads img{
+        padding:0px;
+    }
+    .main-item{
+        margin-top:0px;
+        padding-top:0px;
+        padding:15px;
+        display: flex;
+        flex-direction: column;
+    }
+    .main-item h1{
+        /*flex: 1;*/
+        text-align:justify;
+        font-weight: 500;
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+        /*margin-right: 1rem;*/
+        padding:0px;
+        margin:0px;
+        color: rgba(32, 62, 96, 255);
+        /*padding-left: 15px;*/
+    }
+    .main-item-enroll{
+        padding:0px;
+        flex-wrap:wrap;
+        font-size:15px;
+
+    }
+    .main-item-cta{
+        padding-left:0px;
+        display:block;
+    }
+    .college_wrapper{
+        flex-wrap:wrap;
+    }
+}
+@media only screen and (max-width:575px){
+
+
+/* platform_text */
+    .explore_btn, .explore_btn:hover{
+        width:100%;
+    }
+    .platform_text h2{
+        font-size:26px;
+    }
+    .platform_text h4{
+        font-size:20px;
+    }
+    .platform_text p{
+        font-size:14px;
+    }
+    .explore_btn, .explore_btn:hover{
+        font-size:16px;
+    }
+
+  /* counselling */
+    .counselling h2{
+        font-size: 26px;
+        line-height: 1.2;
+        margin:0 0 20px;
+    }
+    .counselling h4{
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .how_it_work h3 {
+
+        font-size: 24px;
+        margin: 0px 0 30px;
+    }
+    .cell_wrapper .cell {
+        width: calc(50% - 10PX);
+    margin: 5px;
+
+    }
+/* Study Abroad */
+    .coutry_cell{
+        width:50%;
+    }
+
+
+    /* College Fnder */
+
+    .collegefinder h3 {
+        /*font-size: 16px;*/
+        margin: 0 0 8px;
+    }
+    .collegefinder h2{
+        font-size: 25px;
+    }
+    .tab_wrapper .tab li a{
+            font-size: 18px;
+    padding: 12px 6px 5px 10px;
+    }
+
+    /* feature */
+    .feature_cell{
+        width:100%;
+    }
+    .banner{
+        padding-top: 30px !important;
+    }
+
+     .card2-info p {
+        font-size: 11px;
+        padding-right: 5px;
+        margin: 0;
+        color: #646f79;
+        font-weight: 400;
+    }
+
+    .card2 .card2-content .card2-title h4 {
+        font-size: 16px;
+    }
+
+    .card4-feature li {
+        text-align: left;
+        /*width: fit-content; */
+        color: black;
+    }
+    .badge{
+        max-width: 131px;
+    }
+    .card2{
+        width: 300px;
+        margin-bottom: 10px;
+        padding: 5px;
+    }
+    .card4-name{
+        width: 145px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .exam-list .online_course li{
+        margin: 0px 18px 0px -9px;
+    }
+}
+@media (max-width: 480px) {
+     /*Adjust the style for even smaller screens */
+    .owl-carousel .owl-nav button.owl-prev {
+      top: 30px;
+      width: 25px;
+      height: 25px;
+      left: -10px;
+    }
+    .card3 {
+        width: 225px;
+    }
+    .owl-carousel .owl-nav button.owl-next {
+        top: 30px;
+        width: 25px;
+        height: 25px;
+        right: -10px;
+    }
+    .exam-list .online_course li{
+         margin: 0px 18px 0px -9px;
+    }
+    .exam-list .online_course .course_btn{
+         margin: 0px 18px 0px 0px;
+    }
+
+  }

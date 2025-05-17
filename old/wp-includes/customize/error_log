@@ -1,0 +1,4 @@
+[03-Jan-2024 12:59:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home2/profehmn/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17

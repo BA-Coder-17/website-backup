@@ -1,0 +1,340 @@
+/*** Faculty ***/
+
+.dt-sc-icon-box.type6
+{
+    width: 100%;
+}
+.dt-sc-icon-box.type6 ul.dt-sc-fancy-list li
+{
+    display: inline-block;
+    font-size: 15px;
+    padding-left: 25px;
+}
+.dt-sc-icon-box.type6:hover .icon-content ul.dt-sc-fancy-list li a
+{
+    color: #222;
+}
+
+/*** Faq ***/
+
+ul.dt-sc-fancy-list.alignright li
+{
+    padding: 5px 23px 5px 0;
+}
+ul.dt-sc-fancy-list.alignright li:before
+{
+    left: auto;
+    right: 0;
+}
+.space-left > .vc_column-inner
+{
+    padding-left: 40px;
+}
+.space-right > .vc_column-inner
+{
+    padding-right: 40px;
+}
+.space-both-sides.vc_column_container > .vc_column-inner
+{
+    padding: 0 13%;
+}
+
+/*** Apply Now ***/
+
+.no-line-bg .wpcf7-form-control-wrap:before
+{
+    display: none;
+}
+
+/*** Become an Instructor ***/
+
+.instructor-form
+{
+    background-color: #fff;
+    float: left;
+    padding: 40px 40px;
+    width: 100%;
+}
+.dance-instructor-form
+{
+    float: left;
+    padding: 25px;
+    width: 100%;
+}
+
+.wrapper .inst-tabs > .vc_column-inner
+{
+    padding: 40px;
+}
+a.video-image span:hover:before
+{
+    color: #2b2b2b;
+}
+
+.dt-sc-dark-bg .dt-sc-testimonial-wrapper.type7 .dt-sc-testimonial .dt-sc-testimonial-author cite,
+.dt-sc-dark-bg .dt-sc-testimonial-wrapper.type7 .dt-sc-testimonial .dt-sc-testimonial-author cite small,
+.dt-sc-dark-bg .carousel-arrows a:before
+{
+    color: #fff;
+}
+.dt-sc-dark-bg .carousel-arrows a
+{
+    border-color: #fff;
+}
+.dt-sc-dark-bg .carousel-arrows a:hover:before
+{
+    color: rgba(0, 0, 0, .5);
+}
+.dt-sc-dark-bg .carousel-arrows a:hover
+{
+    background-color: #fff;
+}
+
+/*** Insructor Profile ***/
+
+.profile-details h1
+{
+    font-size: 40px;
+}
+
+/*** Advanced Carousel ***/
+
+.dt_carousel .dt-sc-image-caption
+{
+    clear: none;
+}
+
+/*** News Update ***/
+
+.dt-sc-small-separator.alter
+{
+    display: block;
+    float: none;
+    height: 3px;
+    margin: -8px 0 20px;
+    width: 35px;
+}
+.wpb_column .custom-dot-navigation .blog-entry
+{
+    margin-bottom: 0;
+}
+
+/*** Academics ***/
+
+.vc_row.vc_row-o-content-middle > .vc_column_container.wpb_column.space-left > .vc_column-inner
+{
+    padding-left: 40px;
+}
+.vc_row.vc_row-o-content-middle > .vc_column_container.wpb_column.space-right > .vc_column-inner
+{
+    padding-right: 40px;
+}
+
+
+/*** Research ***/
+
+.dt-sc-icon-box
+{
+    width: 100%;
+}
+.hide-carousel-arrows .dt-sc-partners-carousel-wrapper .carousel-arrows
+{
+    display: none;
+}
+
+
+/*** Admissions ***/
+
+.move-to-top
+{
+    margin-top: -100px;
+}
+.fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12
+{
+    padding: 15px 20px 15px;
+}
+.fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12 .icon-wrapper
+{
+    top: 20px;
+}
+.fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12 .icon-content
+{
+    top: 15px;
+}
+.fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12:hover,
+.fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12.selected
+{
+    padding: 20px;
+}
+.fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12:hover .icon-content,
+.fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12.selected .icon-content
+{
+    top: 2px;
+}
+
+.admission-form-section .selection-box
+{
+    display: block;
+}
+.admission-form-section .selection-box:after
+{
+    border-left: none;
+    border-right: none;
+}
+.admission-form-section .selection-box select
+{
+    background-color: #fff;
+    height: 51px;
+
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+}
+.admission-form-section input[type=submit]
+{
+    margin: 0;
+    width: 100%;
+}
+.admission-form-section input[type=submit]:hover
+{
+    background: #222;
+}
+
+
+/*** Faculty ***/
+
+.dt-sc-dark-bg .dt-sc-testimonial-wrapper .dt-sc-testimonial.type1 .dt-sc-testimonial-author cite small,
+.dt-sc-dark-bg .dt-sc-testimonial.type1 blockquote
+{
+    color: #fff;
+}
+
+/*** Alumni ***/
+
+.fullwidth-col .dt-sc-one-third
+{
+    width: 100%;
+}
+
+.fullwidth-col.bottom-space .dt-sc-one-third.first
+{
+    margin: 0;
+}
+
+.fullwidth-col.bottom-space .dt-sc-one-third
+{
+    margin-top: 60px;
+}
+
+
+/*** Responsive Styles ***/
+
+
+@media only screen and (max-width: 1199px) and (min-width: 992px)
+{
+    .wrapper .inst-tabs > .vc_column-inner
+    {
+        padding: 20px;
+    }
+    .dt-sc-tabs-horizontal-frame-container.type5 ul.dt-sc-tabs-horizontal-frame > li > a
+    {
+        font-size: 14px;
+        padding: 10px 20px 9px;
+    }
+
+    .move-to-bottom
+    {
+        bottom: -67px;
+        left: 0;
+        position: relative;
+    }
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12 .icon-wrapper
+    {
+        top: 65px;
+    }
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12 .icon-content
+    {
+        top: 60px;
+    }
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12:hover,
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12.selected
+    {
+        padding: 40px 20px 25px;
+    }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px)
+{
+    .move-to-bottom
+    {
+        bottom: -187px;
+        left: 0;
+        position: relative;
+    }
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12:hover,
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12.selected
+    {
+        padding: 45px 20px 25px;
+    }
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12 .icon-wrapper
+    {
+        top: 75px;
+    }
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12 .icon-content
+    {
+        top: 70px;
+    }
+    .dt-sc-icon-box.type6 ul.dt-sc-fancy-list li
+    {
+        font-size: 12px;
+        padding-left: 16px;
+    }
+}
+
+@media only screen and (max-width: 767px)
+{
+    .space-left > .vc_column-inner
+    {
+        padding-left: 15px;
+    }
+    .space-right > .vc_column-inner
+    {
+        padding-right: 15px;
+    }
+    .vc_row.vc_row-o-content-middle > .vc_column_container.wpb_column.space-left > .vc_column-inner
+    {
+        padding-left: 15px;
+    }
+    .vc_row.vc_row-o-content-middle > .vc_column_container.wpb_column.space-right > .vc_column-inner
+    {
+        padding-right: 15px;
+    }
+    .space-both-sides.vc_column_container > .vc_column-inner
+    {
+        padding: 0 15px;
+    }
+    .dt-sc-tabs-horizontal-frame-container.type6.alter .dt-sc-tabs-horizontal-frame-content
+    {
+        padding: 0 15px;
+    }
+    .instructor-form
+    {
+        padding: 40px 20px;
+    }
+    .instructor-form .column
+    {
+        margin-bottom: 0;
+    }
+    .wrapper .inst-tabs > .vc_column-inner
+    {
+        padding: 20px;
+    }
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12 .icon-wrapper
+    {
+        top: 30px;
+    }
+    .fullwidth-dt-sc-icon-box-type12 .dt-sc-icon-box.type12 .icon-content
+    {
+        top: 25px;
+    }
+}

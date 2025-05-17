@@ -1,0 +1,710 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Album and Image Gallery Plus Lightbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 12:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/class-aigpl-script.php:127
+msgid "%curr% of %total%"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:173
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:155
+msgid "15+ image gallery designs"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:31
+msgid "15+. In lite version only one design."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:156
+msgid "4 shortcodes "
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:140
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:22
+msgid ""
+"7 ( Album Grid, Album Slider, Gallery Grid, Gallery Slider, Album with "
+"Reload Gallery, Gallery Masonry, Album Masonry )."
+msgstr ""
+
+#: includes/aigpl-post-types.php:23
+msgid "Add Album Gallery"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:27
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:24
+msgid "Add New Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:85
+msgid "Add New Category"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:27
+msgid "Add to Gallery"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:64
+msgid "Album and Gallery Masonry Style"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:151
+msgid "Album and Gallery Premium Features"
+msgstr ""
+
+#. Name of the plugin
+msgid "Album and Image Gallery Plus Lightbox"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:59
+msgid "Album and Image Gallery Plus Lightbox - Settings"
+msgstr ""
+
+#: includes/aigpl-post-types.php:21 includes/aigpl-post-types.php:22
+#: includes/aigpl-post-types.php:35
+msgid "Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:128
+msgid "Album Gallery draft updated."
+msgstr ""
+
+#: includes/aigpl-post-types.php:123
+msgid "Album Gallery published."
+msgstr ""
+
+#: includes/aigpl-post-types.php:122
+#, php-format
+msgid "Album Gallery restored to revision from %s"
+msgstr ""
+
+#: includes/aigpl-post-types.php:124
+msgid "Album Gallery saved."
+msgstr ""
+
+#: includes/aigpl-post-types.php:126
+#, php-format
+msgid "Album Gallery scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/aigpl-post-types.php:125
+msgid "Album Gallery submitted."
+msgstr ""
+
+#: includes/aigpl-post-types.php:118 includes/aigpl-post-types.php:121
+msgid "Album Gallery updated."
+msgstr ""
+
+#: includes/shortcode/aigpl-gallery-album.php:31
+msgid "Album Grid View"
+msgstr ""
+
+#: includes/aigpl-post-types.php:32
+msgid "Album Image"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:55
+msgid "Album Image with Popup"
+msgstr ""
+
+#: includes/shortcode/aigpl-gallery-album-slider.php:31
+msgid "Album Slider View"
+msgstr ""
+
+#: includes/aigpl-post-types.php:80
+msgid "All Category"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:74
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:43
+msgid "Alternative Text"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:85
+msgid "Arrange your desired slides with your desired order and display."
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:211
+msgid "Attachment Found."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:51
+msgid "Caption"
+msgstr ""
+
+#: includes/aigpl-post-types.php:77 includes/aigpl-post-types.php:78
+#: includes/aigpl-post-types.php:87
+msgid "Category"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:89
+msgid "Check Documentation"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:98
+msgid "Check Free Demo"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:24
+msgid "Choose Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:52
+msgid ""
+"Choose your desired images for gallery. Hold Ctrl key to select multiple "
+"images at a time."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:80
+#: includes/admin/settings/aigpl-img-popup.php:17
+#: includes/admin/settings/aigpl-img-popup.php:17
+msgid "Close"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:171
+msgid "Custom CSS option"
+msgstr ""
+
+#: includes/aigpl-post-types.php:120
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/aigpl-post-types.php:119
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:162
+msgid "Custom link to gallery image"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:95
+msgid "Demo"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:59
+msgid "Description"
+msgstr ""
+
+#: includes/aigpl-functions.php:169 includes/aigpl-functions.php:181
+msgid "Design 1"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:28
+msgid "Designs"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:157
+msgid "Display album category wise"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:58
+msgid "Display Album image with popup on click."
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:76
+msgid "Display custom link to gallery image."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:160
+msgid "Display gallery image with title and description"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:161
+msgid "Display image album with title and description"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:67
+msgid "Display Masonry style for Album and Gallery."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:165
+msgid "Divi Page Builder Native Support"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:103
+msgid ""
+"Do not display the album & Do not display the album for particular "
+"categories."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:86
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:82
+msgid "Drag & Drop Slide Order Change"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:158
+msgid "Easy Drag & Drop Image Feature"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display image gallery and gallery slider. Also work with "
+"Gutenberg shortcode block."
+msgstr ""
+
+#: includes/aigpl-post-types.php:25
+msgid "Edit Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:83
+msgid "Edit Category"
+msgstr ""
+
+#: includes/class-aigpl-script.php:43
+#: includes/admin/metabox/aigpl-sett-metabox.php:40
+#: includes/admin/settings/aigpl-img-popup-data.php:20
+msgid "Edit Image"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:31
+msgid "Edit Image From Attachment Page"
+msgstr ""
+
+#: includes/class-aigpl-script.php:42
+#: includes/admin/metabox/aigpl-sett-metabox.php:39
+msgid "Edit Image in Popup"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:140
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:46
+msgid "Enter image alternative text."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:54
+msgid "Enter image caption."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:62
+msgid "Enter image description."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:70
+msgid "Enter image link. e.g."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:38
+msgid "Enter image title."
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:459
+msgid "Essential Plugin Blocks"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:100
+msgid "Exclude Album and Exclude Some Categories"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:172
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:166
+msgid "Fusion Page Builder (Avada) native support"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:175
+msgid "Gain access to <strong>Album and Image Gallery Plus Lightbox</strong>"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:77
+msgid "Gallery Grid Shortcode"
+msgstr ""
+
+#: includes/shortcode/aigpl-gallery-album-slider.php:39
+#: includes/shortcode/aigpl-gallery-album.php:39
+#: includes/shortcode/aigpl-gallery-slider.php:39
+#: includes/shortcode/aigpl-gallery.php:31
+#: includes/shortcode/aigpl-gallery.php:39
+msgid "Gallery Grid View"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:73
+msgid "Gallery Image Link"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:27
+msgid "Gallery Images"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:78
+msgid "Gallery Slider Shortcode"
+msgstr ""
+
+#: includes/shortcode/aigpl-gallery-slider.php:31
+msgid "Gallery Slider View"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:48
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:176
+msgid "Grab Album Gallery Now"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:94
+msgid ""
+"Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual "
+"Composer and Fusion Page Builder Support"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:110
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:164
+msgid "Gutenberg, Elementor, Beaver and SiteOrigin Page Builder Support"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:136
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:118
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:26
+#: includes/admin/class-aigpl-admin.php:284
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:39
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:284
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:62
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugin/album-image-gallery-plus-"
+"lightbox/"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugins/album-image-gallery-plus-"
+"lightbox"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:79
+msgid "Image Album Grid Shortcode"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:80
+msgid "Image Album Slider Shortcode"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:67
+msgid "Image Link"
+msgstr ""
+
+#: album-and-image-gallery.php:191
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:19
+msgid "Layouts"
+msgstr ""
+
+#: includes/aigpl-post-types.php:127
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/shortcode/aigpl-gallery-album-slider.php:205
+#: includes/shortcode/aigpl-gallery-album.php:183
+msgid "Main Album"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:159
+msgid "Masonry style for image gallery"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:60
+msgid "More Premium - Settings"
+msgstr ""
+
+#: includes/aigpl-post-types.php:26
+msgid "New Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:86
+msgid "New Category Name"
+msgstr ""
+
+#: includes/aigpl-post-types.php:29
+msgid "No Album Gallery Found"
+msgstr ""
+
+#: includes/aigpl-post-types.php:30
+msgid "No Album Gallery Found in Trash"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:49
+msgid "No Gallery Images"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:122
+msgid "Number of Photos"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:91
+msgid "Page Builder Support"
+msgstr ""
+
+#: includes/aigpl-post-types.php:81
+msgid "Parent Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:82
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/shortcode/aigpl-gallery-album-slider.php:57
+#: includes/shortcode/aigpl-gallery-album.php:58
+#: includes/admin/supports/gutenberg-block.php:210
+#: includes/admin/supports/gutenberg-block.php:309
+msgid "Photos"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:49
+msgid ""
+"Play with all shortcode parameters with preview panel. No documentation "
+"required."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup.php:22
+msgid "Please Wait"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:19
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:28
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:37
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:46
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:55
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:64
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:73
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:82
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:91
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:100
+msgid "PRO"
+msgstr ""
+
+#: includes/aigpl-post-types.php:34
+msgid "Remove Album Image"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:28
+msgid "Remove Gallery Images"
+msgstr ""
+
+#: includes/class-aigpl-script.php:44
+#: includes/admin/metabox/aigpl-sett-metabox.php:41
+msgid "Remove Image"
+msgstr ""
+
+#: includes/aigpl-post-types.php:38
+msgid "Remove slide image"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:79
+msgid "Save Changes"
+msgstr ""
+
+#: includes/aigpl-post-types.php:28
+msgid "Search Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:79
+msgid "Search Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:33
+msgid "Set Album Image"
+msgstr ""
+
+#: includes/aigpl-post-types.php:37
+msgid "Set slide image"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:121
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:46
+msgid "Shortcode Generator "
+msgstr ""
+
+#: includes/aigpl-post-types.php:36
+msgid "Slide Image"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:169
+msgid "Slider Center Mode Effect"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:170
+msgid "Slider RTL support"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:287
+msgid "Solutions & Features"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:287
+msgid "Solutions & Features - Album and Image Gallery Plus Lightbox"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:193
+#: includes/admin/class-aigpl-admin.php:229
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:66
+msgid "Step-1. Create a page like Album OR My Album."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:52
+msgid "Step-1. Go to \"Album Gallery --> Add Album Gallery tab\"."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:122
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:53
+msgid ""
+"Step-2. Add Album title, description and images under Album and Image "
+"Gallery Plus Lightbox - Settings."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:67
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:123
+msgid "Step-2. Search \"gallery/album\" keyword in the Gutenberg block list."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:124
+msgid ""
+"Step-3. Add any block of gallery/album and you will find its relative "
+"options on the right end side."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:54
+msgid ""
+"Step-3. Under \"Choose Gallery Images\" click on \"Gallery Images\" button "
+"and select multiple images from WordPress media and click on \"Add to "
+"Gallery\" button."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:55
+msgid ""
+"Step-4. You can find out shortcode for album under \"Album Gallery\" list "
+"view."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:168
+msgid "Strong Shortcode Parameters"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:167
+msgid "Template overriding feature support"
+msgstr ""
+
+#: album-and-image-gallery.php:190
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:35
+msgid "Title"
+msgstr ""
+
+#: includes/aigpl-post-types.php:84
+msgid "Update Category"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:290
+msgid "Upgrade To PRO"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:290
+msgid "Upgrade To PRO - Album and Image Gallery Plus Lightbox"
+msgstr ""
+
+#: includes/aigpl-post-types.php:39
+msgid "Use as slide image"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:13
+#, php-format
+msgid ""
+"Utilize these <a href=\"%s\" target=\"_blank\">Premium Features</a> to get "
+"best of this plugin with Annual or Lifetime bundle deal."
+msgstr ""
+
+#: includes/aigpl-post-types.php:27
+msgid "View Album Gallery"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:37
+msgid "WP Templating Features "
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:163
+msgid "WPBakery Page Builder Support"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-post-setting-metabox-pro.php:40
+msgid "You can modify plugin html/designs in your current theme."
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:255
+msgid "Your changes saved successfully."
+msgstr ""

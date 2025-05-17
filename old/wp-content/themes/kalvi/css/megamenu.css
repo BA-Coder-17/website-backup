@@ -1,0 +1,186 @@
+/* CSS Document */
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu ul.dt-sc-fancy-list,
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dtlms-instructor-item-meta-data h4 a
+{
+    padding: 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu ul.dt-sc-fancy-list li
+{
+    font-size: inherit;
+    padding: 0 0 20px 15px;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu ul.dt-sc-fancy-list li:first-child:before
+{
+    top: 4px;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='list-item-wrapper'] div[class*='list-thumb'] a,
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='list-item-wrapper'] div[class*='list-details'] h5 a
+{
+    padding: 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='list-item-wrapper'] div[class*='list-details'] a,
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dtlms-instructor-item .dtlms-team-social-links ul li,
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu ul.dt-sc-tabs-horizontal > li,
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='classlist-item-wrapper'] div[class*='list-details'] h5
+{
+    width: auto;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='list-item-wrapper'] div[class*='list-details']
+{
+    padding: 15px 10px;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='list-item-wrapper'] div[class$='bottom-section']
+{
+    margin: 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='list-item-wrapper'] div[class*='list-details'] a.dtlms-button
+{
+    margin-top: 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='list-item-wrapper'] div[class*='list-details'] a.dtlms-button:hover
+{
+    color: #fff;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-sc-dark-bg ul.dt-sc-fancy-list li
+{
+    color: #fff;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-sc-dark-bg .dtlms-instructor-item-meta-data h5
+{
+    color: rgba(0, 0, 0, .3);
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dtlms-instructor-item .dtlms-team-social-links ul
+{
+    padding: 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dtlms-instructor-item .dtlms-team-social-links ul li a
+{
+    padding: 0 10px 0 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-sc-dark-bg ul.dt-sc-tabs-horizontal > li > a.current
+{
+    border-color: #fff; 
+    color: #fff;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-sc-dark-bg ul.dt-sc-tabs-horizontal > li > a
+{
+    color: rgba(255, 255, 255, .7);
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-sc-dark-bg ul.dt-sc-tabs-horizontal > li > a:hover,
+#header .dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-sc-dark-bg ul.dt-sc-tabs-horizontal > li:hover > a
+{
+    color: #fff;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-sc-dark-bg ul.dt-sc-tabs-horizontal
+{
+    border-bottom-color: rgba(255, 255, 255, .4);
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .type1.dtlms-classlist-item-wrapper .dtlms-instructor-item-meta-data h4
+{
+    margin: 5px 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='list-item-wrapper'].list-item div[class*='list-details'] div[class*='list-description']
+{
+    font-size: 14px; 
+    margin-bottom: 25px;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='classlist-item-wrapper'] div[class*='list-details'] h5 a
+{
+    font-size: 20px;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='classlist-item-wrapper'] div[class*='list-details'] h5
+{
+    display: block;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dtlms-classlist-item-wrapper .dtlms-class-listing-featured
+{
+    margin-bottom: 20px;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-custom-nav-wrapper[data-default-style='none'][data-hover-style='none']:not(.inline-vertical):not(.inline-horizontal)
+.dt-custom-nav li a
+{
+    margin-bottom: 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dtlms-course-category-item a
+{
+    color: inherit; 
+    font-size: inherit;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu > ul.sub-menu
+{
+    border: none !important;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='listing-containers'] .dtlms-column,
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu div[class*='listing-holder']
+{
+    margin: 0;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dtlms-title
+{
+    margin-bottom: 25px;
+}
+.dt-header-menu ul.dt-primary-nav li.has-mega-menu .dt-sc-dark-bg .dtlms-instructor-item.type7
+{
+    color: rgba(0,0,0,.4);
+}
+
+/* Tab section */
+.tabbed-class .dtlms-item-status-details,
+.tabbed-class .dtlms-pagination
+{
+    display: none !important;
+}
+.tabbed-class ul.dt-sc-tabs-vertical
+{
+    width: 20% ;
+}
+.tabbed-class .dt-sc-tabs-vertical-content
+{
+    width: 80% ;
+}
+.tabbed-class div[class*='listing-containers'] div[class*='list-item-wrapper'].dtlms-column.list-item
+{
+    margin-bottom: 20px;
+}
+.tabbed-class div[class*='listing-holder']
+{
+    margin-bottom: 0;
+}
+.tabbed-class .dt-sc-tabs-vertical-content
+{
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+/* University Mega Menu */
+
+.dt-sc-university-mega-menu
+{
+    padding: 45px 35px 45px 45px;
+}
+.dt-sc-university-mega-menu .dt-sc-university-mega-menu-title
+{
+    display: inline-block;
+    margin-bottom: 30px;
+    padding-bottom: 24px;
+    position: relative;
+    width: 100%;
+}
+.dt-sc-university-mega-menu .dt-sc-university-mega-menu-title:before
+{
+    background-color: #000;
+    bottom: 0;
+    content: '';
+    height: 4px; 
+    left: 0;
+    position: absolute;
+    width: 50px;
+}
+.dt-header-menu .dt-primary-nav .dt-sc-university-mega-menu .dt-sc-mega-menu-title-link a
+{
+    color: #000; 
+    font-size: 20px;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+}

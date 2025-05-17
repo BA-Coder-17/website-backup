@@ -1,0 +1,8 @@
+[03-Jan-2024 12:47:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/profehmn/public_html/wp-admin/includes/template.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-admin/includes/template.php on line 12
+[28-Feb-2024 07:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/profehmn/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-admin/includes/file.php on line 16

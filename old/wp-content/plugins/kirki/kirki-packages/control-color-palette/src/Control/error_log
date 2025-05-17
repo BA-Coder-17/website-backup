@@ -1,0 +1,16 @@
+[08-Nov-2023 00:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "Kirki\Control\Base" not found in /home2/profehmn/public_html/wp-content/plugins/kirki/kirki-packages/control-color-palette/src/Control/Color_Palette.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/kirki/kirki-packages/control-color-palette/src/Control/Color_Palette.php on line 22
+[08-Nov-2023 00:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "Kirki\Control\Base" not found in /home2/profehmn/public_html/wp-content/plugins/kirki/kirki-packages/control-color-palette/src/Control/Color_Palette.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/kirki/kirki-packages/control-color-palette/src/Control/Color_Palette.php on line 22
+[08-Nov-2023 00:15:38 UTC] PHP Fatal error:  Uncaught Error: Class "Kirki\Control\Base" not found in /home2/profehmn/public_html/wp-content/plugins/kirki/kirki-packages/control-color-palette/src/Control/Color_Palette.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/kirki/kirki-packages/control-color-palette/src/Control/Color_Palette.php on line 22
+[08-Nov-2023 00:15:38 UTC] PHP Fatal error:  Uncaught Error: Class "Kirki\Control\Base" not found in /home2/profehmn/public_html/wp-content/plugins/kirki/kirki-packages/control-color-palette/src/Control/Color_Palette.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/kirki/kirki-packages/control-color-palette/src/Control/Color_Palette.php on line 22

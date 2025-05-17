@@ -1,0 +1,16 @@
+[08-Nov-2023 00:15:13 UTC] PHP Fatal error:  Uncaught Error: Class "Cloudflare\Api" not found in /home2/profehmn/public_html/wp-content/plugins/wp-rocket/vendor/jamesryanbell/cloudflare/src/CloudFlare/Zone/CustomSSL.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/wp-rocket/vendor/jamesryanbell/cloudflare/src/CloudFlare/Zone/CustomSSL.php on line 16
+[08-Nov-2023 00:15:14 UTC] PHP Fatal error:  Uncaught Error: Class "Cloudflare\Api" not found in /home2/profehmn/public_html/wp-content/plugins/wp-rocket/vendor/jamesryanbell/cloudflare/src/CloudFlare/Zone/CustomSSL.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/wp-rocket/vendor/jamesryanbell/cloudflare/src/CloudFlare/Zone/CustomSSL.php on line 16
+[08-Nov-2023 00:15:14 UTC] PHP Fatal error:  Uncaught Error: Class "Cloudflare\Api" not found in /home2/profehmn/public_html/wp-content/plugins/wp-rocket/vendor/jamesryanbell/cloudflare/src/CloudFlare/Zone/CustomSSL.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/wp-rocket/vendor/jamesryanbell/cloudflare/src/CloudFlare/Zone/CustomSSL.php on line 16
+[08-Nov-2023 00:15:15 UTC] PHP Fatal error:  Uncaught Error: Class "Cloudflare\Api" not found in /home2/profehmn/public_html/wp-content/plugins/wp-rocket/vendor/jamesryanbell/cloudflare/src/CloudFlare/Zone/CustomSSL.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/wp-rocket/vendor/jamesryanbell/cloudflare/src/CloudFlare/Zone/CustomSSL.php on line 16

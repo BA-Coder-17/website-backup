@@ -1,0 +1,4145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DesignThemes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-02 10:55+0530\n"
+"PO-Revision-Date: 2019-07-23 13:20+0530\n"
+"Last-Translator: Admin <admin@iamdesigning.com>\n"
+"Language-Team: DesignThemes <support@designthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:41
+msgid "Oops!"
+msgstr ""
+
+#: ../404.php:41
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:43
+msgid "Back to Home"
+msgstr ""
+
+#: ../bbpress/form-forum.php:35 ../bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: ../bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: ../bbpress/form-forum.php:55 ../bbpress/form-reply.php:44
+#: ../bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-forum.php:82 ../bbpress/form-reply.php:64
+#: ../bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: ../bbpress/form-forum.php:138 ../bbpress/form-reply-move.php:72
+#: ../bbpress/form-reply.php:135 ../bbpress/form-topic-merge.php:93
+#: ../bbpress/form-topic-split.php:97 ../bbpress/form-topic.php:203
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Submit"
+msgstr ""
+
+#: ../bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:24
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:41 ../bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:42
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:49 ../bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:68 ../bbpress/form-topic-merge.php:89
+#: ../bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: ../bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: ../bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:93 ../bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:97 ../bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:114 ../bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:118 ../bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:158
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:166 ../bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:64 ../bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:106 ../bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:106 ../bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr ""
+
+#: ../bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr ""
+
+#: ../bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: ../bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:21 ../bbpress/loop-replies.php:32
+#: ../bbpress/loop-replies.php:70 ../bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:21 ../bbpress/loop-replies.php:24
+#: ../bbpress/loop-replies.php:66 ../bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:22 ../bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: ../bbpress/loop-replies.php:18 ../bbpress/loop-replies.php:60
+msgid "Author"
+msgstr ""
+
+#: ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: ../bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:20
+msgid "Subscribed Forums"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:29
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:29
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:35
+msgid "Subscribed Topics"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:48
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:48
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: ../buddypress/activity/entry.php:64
+msgid "View Conversation"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:72
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:80
+msgid "Mark as Favorite"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:80
+msgid "Favorite"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:84
+msgid "Remove Favorite"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:130
+msgid "Post"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:130
+msgid "Cancel"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:31
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:33
+#, php-format
+msgid "What's new, %s?"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:45
+msgid "Post Update"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:52
+msgid "Post in"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:55
+msgid "My Profile"
+msgstr ""
+
+#: ../buddypress/groups/groups-loop.php:63
+#: ../buddypress/groups/single/group-header.php:63
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: ../buddypress/groups/groups-loop.php:125
+msgid "There were no groups found."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:30
+msgid "Group Name (required)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:33
+msgid "Group Description (required)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:47
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:60
+#: ../buddypress/groups/single/admin.php:159
+msgid "Save Changes"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:82
+msgid "Enable discussion forum"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:91
+msgid "Privacy Options"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:96
+msgid "This is a public group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:98
+msgid "Any site member can join this group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:99
+#: ../buddypress/groups/single/admin.php:109
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:100
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:106
+msgid "This is a private group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:108
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:110
+#: ../buddypress/groups/single/admin.php:120
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:116
+msgid "This is a hidden group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:118
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:119
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:127
+msgid "Group Invitations"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:129
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:134
+msgid "All group members"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:139
+msgid "Group admins and mods only"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:144
+msgid "Group admins only"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:169
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:173
+msgid "Upload Image"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:179
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:181
+msgid "Delete Group Profile Photo"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:199
+msgid "Crop Profile Photo"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:201
+msgid "Profile photo to crop"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:204
+msgid "Profile photo preview"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:207
+msgid "Crop Image"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:234
+msgid "Administrators"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:242
+#: ../buddypress/groups/single/admin.php:269
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:247
+#: ../buddypress/groups/single/admin.php:274
+msgid "Demote to Member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:262
+msgid "Moderators"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:273
+#: ../buddypress/groups/single/admin.php:327
+msgid "Promote to Admin"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:288
+msgid "Members"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:317
+msgid "(banned)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:323
+msgid "Unban this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:323
+msgid "Remove Ban"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "Kick and ban this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "Promote to Mod"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:331
+msgid "Remove this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:331
+msgid "Remove from group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:352
+msgid "This group has no members."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:423
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:426
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:438
+msgid "Delete Group"
+msgstr ""
+
+#: ../buddypress/groups/single/group-header.php:34
+msgid "Group Mods"
+msgstr ""
+
+#: ../buddypress/groups/single/group-header.php:102
+msgid "Group Admins"
+msgstr ""
+
+#: ../buddypress/groups/single/home.php:38
+msgid "Group primary navigation"
+msgstr ""
+
+#: ../buddypress/members/members-loop.php:147
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: ../comments.php:10 ../framework/register-post-functions.php:888
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:10
+msgid "Comment ( 1 )"
+msgstr ""
+
+#: ../comments.php:10
+msgid "Comments ( % )"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:30 ../cs-framework-override/config/framework.config.php:675
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:31 ../woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:51
+#: ../framework/register-post-functions.php:976
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:8
+msgid "Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:13
+#, php-format
+msgid "Designthemes Framework %sby Designthemes%s"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:25
+msgid "General"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:32
+msgid "General Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:38
+msgid "Site Header"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:47
+#: ../cs-framework-override/config/metabox.config.php:753
+msgid "Select Header"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:49
+msgid "Select default header."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:55
+msgid "Site Footer"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:64
+#: ../cs-framework-override/config/metabox.config.php:790
+msgid "Select Footer"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:66
+msgid "Select defaultfooter."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:72
+msgid "Site Loader"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:73
+msgid "YES! to use site loader."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:79
+msgid "Globally Show Page Comments"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:80
+msgid ""
+"YES! to show comments on all the pages. This will globally override your "
+"\"Allow comments\" option under your page \"Discussion\" settings."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:87
+msgid "Show all pages in Pagination"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:88
+msgid "YES! to show all the pages instead of dots near the current page."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:96
+msgid "Google Map API Key"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:97
+msgid "Put a valid google account api key here"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:103
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:104
+msgid "Put a valid mailchimp account api key here"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:112
+msgid "Layout Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:121
+#: ../cs-framework-override/config/framework.config.php:128
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:134
+#: ../cs-framework-override/config/metabox.config.php:136
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:135
+msgid "YES! to display breadcrumb for all pages."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:142
+msgid "Breadcrumb Delimiter"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:143
+msgid "Choose delimiter style to display on breadcrumb section."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:150
+msgid "Breadcrumb Style"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:152
+#: ../cs-framework-override/config/framework.config.php:171
+#: ../cs-framework-override/config/framework.config.php:308
+#: ../cs-framework-override/config/metabox.config.php:145
+#: ../cs-framework-override/config/metabox.config.php:271
+#: ../kirki/kirki-utils.php:214
+msgid "Default"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:153
+msgid "Align Center"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:154
+#: ../cs-framework-override/config/metabox.config.php:528
+msgid "Align Right"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:155
+msgid "Left Side Breadcrumb"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:156
+msgid "Right Side Breadcrumb"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:157
+msgid "Top Right Title Center"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:158
+msgid "Top Left Title Center"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:162
+msgid "Choose alignment style to display on breadcrumb section."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:168
+#: ../cs-framework-override/config/metabox.config.php:142
+#: ../cs-framework-override/config/metabox.config.php:185
+msgid "Position"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:170
+#: ../cs-framework-override/config/metabox.config.php:144
+msgid "Behind the Header"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:175
+msgid "Choose position of breadcrumb section."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:181
+#: ../cs-framework-override/config/framework.config.php:499
+#: ../cs-framework-override/config/framework.config.php:603
+#: ../cs-framework-override/config/metabox.config.php:153
+msgid "Background"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:182
+msgid "Choose background options for breadcrumb title section."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:199
+msgid "All Page Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:208
+msgid "Post Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:215
+msgid "Single Post Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:221
+msgid "Single Author Box"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:222
+msgid "YES! to display author box in single blog posts."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:228
+msgid "Single Related Posts"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:229
+msgid "YES! to display related blog posts in single posts."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:235
+msgid "Single Post Navigation"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:236
+msgid "YES! to display post navigation in single posts."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:242
+msgid "Posts Comments"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:243
+msgid "YES! to display single blog post comments."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:249
+msgid "Post Archives Page Layout"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:255
+#: ../cs-framework-override/config/metabox.config.php:72
+msgid "Page Layout"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:271
+#: ../cs-framework-override/config/metabox.config.php:87
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:278
+#: ../cs-framework-override/config/metabox.config.php:106
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:284
+msgid "Post Archives Post Layout"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:290
+#: ../cs-framework-override/config/metabox.config.php:254
+#: ../cs-framework-override/config/metabox.config.php:392
+#: ../cs-framework-override/config/metabox.config.php:567
+msgid "Post Layout"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:306
+#: ../cs-framework-override/config/metabox.config.php:269
+#: ../cs-framework-override/config/metabox.config.php:404
+#: ../cs-framework-override/config/metabox.config.php:592
+#: ../cs-framework-override/config/metabox.config.php:686
+msgid "Post Style"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:309
+#: ../cs-framework-override/config/metabox.config.php:272
+msgid "Date Left"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:310
+#: ../cs-framework-override/config/metabox.config.php:273
+msgid "Date Left Modern"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:311
+#: ../cs-framework-override/config/metabox.config.php:274
+msgid "Date and Author Left"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:312
+#: ../cs-framework-override/config/framework.config.php:461
+#: ../cs-framework-override/config/framework.config.php:716
+#: ../cs-framework-override/config/metabox.config.php:275
+#: ../cs-framework-override/config/metabox.config.php:694
+msgid "Modern"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:313
+#: ../cs-framework-override/config/metabox.config.php:276
+msgid "Bordered"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:314
+#: ../cs-framework-override/config/framework.config.php:462
+#: ../cs-framework-override/config/framework.config.php:544
+#: ../cs-framework-override/config/framework.config.php:725
+#: ../cs-framework-override/config/metabox.config.php:277
+#: ../cs-framework-override/config/metabox.config.php:410
+#: ../cs-framework-override/config/metabox.config.php:690
+msgid "Classic"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:315
+#: ../cs-framework-override/config/metabox.config.php:278
+msgid "Trendy"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:316
+#: ../cs-framework-override/config/metabox.config.php:279
+msgid "Overlap"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:317
+#: ../cs-framework-override/config/metabox.config.php:280
+msgid "Stripe"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:318
+#: ../cs-framework-override/config/metabox.config.php:281
+msgid "Fashion"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:319
+#: ../cs-framework-override/config/metabox.config.php:282
+msgid "Minimal Bordered"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:320
+#: ../cs-framework-override/config/metabox.config.php:283
+msgid "Medium"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:321
+msgid "Medium Hightlight"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:322
+#: ../cs-framework-override/config/metabox.config.php:285
+msgid "Medium Skin Highlight"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:326
+msgid "Choose post style to display post archives pages."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:332
+#: ../cs-framework-override/config/metabox.config.php:304
+msgid "Allow Excerpt"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:333
+msgid "YES! to allow excerpt"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:340
+#: ../cs-framework-override/config/metabox.config.php:310
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:341
+msgid "Put Excerpt Length"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:348
+#: ../cs-framework-override/config/metabox.config.php:291
+#: ../cs-framework-override/config/metabox.config.php:298
+#: ../framework/register-functions.php:104
+#: ../framework/register-post-functions.php:265
+#: ../framework/register-post-functions.php:344
+#: ../framework/register-post-functions.php:489
+#: ../framework/register-post-functions.php:560
+#: ../framework/register-post-functions.php:631
+#: ../framework/register-post-functions.php:706
+#: ../framework/register-post-functions.php:778
+#: ../framework/register-post-functions.php:849
+#: ../framework/register-post-functions.php:922
+#: ../framework/register-post-functions.php:986
+#: ../framework/register-post-functions.php:1064
+msgid "Read More"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:349
+msgid "YES! to enable read more button"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:356
+#: ../cs-framework-override/config/metabox.config.php:297
+msgid "Read More Shortcode"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:357
+msgid "Paste any button shortcode here"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:363
+msgid "Single Post & Post Archive options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:369
+msgid "Post Format Meta"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:370
+msgid "YES! to show post format meta information"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:377
+msgid "Author Meta"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:378
+msgid "YES! to show post author meta information"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:385
+msgid "Date Meta"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:386
+msgid "YES! to show post date meta information"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:393
+msgid "Comment Meta"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:394
+msgid "YES! to show post comment meta information"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:401
+msgid "Category Meta"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:402
+msgid "YES! to show post category information"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:409
+msgid "Tag Meta"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:410
+msgid "YES! to show post tag information"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:417
+msgid "Post Likes"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:418
+msgid "YES! to show post likes information"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:425
+msgid "Post Views"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:426
+msgid "YES! to show post views information"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:438
+msgid "404 Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:445
+msgid "404 Message"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:451
+msgid "Enable Message"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:452
+msgid "YES! to enable not-found page message."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:459
+#: ../cs-framework-override/config/framework.config.php:537
+msgid "Template Style"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:463
+#: ../cs-framework-override/config/framework.config.php:539
+msgid "Diamond"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:464
+msgid "Shadow"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:465
+msgid "Diamond Alt"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:466
+#: ../cs-framework-override/config/framework.config.php:722
+msgid "Stack"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:467
+#: ../cs-framework-override/config/framework.config.php:541
+msgid "Minimal"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:471
+msgid "Choose the style of not-found template page."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:477
+msgid "404 Dark BG"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:478
+msgid "YES! to use dark bg notfound page for this site."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:484
+#: ../cs-framework-override/config/framework.config.php:562
+msgid "Custom Page"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:487
+#: ../cs-framework-override/config/framework.config.php:565
+msgid "Choose the page"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:488
+msgid "Choose the page for not-found content."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:493
+msgid "Background Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:505
+#: ../cs-framework-override/config/framework.config.php:609
+msgid "Custom Styles"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:506
+msgid "Paste custom CSS styles for not found page."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:517
+msgid "Under Construction Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:524
+msgid "Under Construction"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:530
+msgid "Enable Coming Soon"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:531
+msgid "YES! to check under construction page of your website."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:540
+msgid "Teaser"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:542
+msgid "Counter Only"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:543
+msgid "Belt"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:545
+#: ../cs-framework-override/config/framework.config.php:718
+msgid "Boxed"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:549
+msgid "Choose the style of coming soon template."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:555
+msgid "Coming Soon Dark BG"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:556
+msgid "YES! to use dark bg coming soon page for this site."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:566
+msgid "Choose the page for comingsoon content."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:572
+msgid "Show Launch Date"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:573
+msgid "YES! to show launch date text."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:579
+msgid "Launch Date"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:583
+msgid "Put Format: 12/30/2016 12:00:00 month/day/year hour:minute:second"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:589
+msgid "UTC Timezone"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:597
+msgid "Choose utc timezone, by default UTC:00:00"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:610
+msgid "Paste custom CSS styles for under construction page."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:624
+msgid "Widget Area"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:631
+msgid "Custom Widget Area for Sidebar"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:637
+msgid "Sidebar widget Title Style"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:639
+msgid "Choose any type"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:640
+msgid "Double Border"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:641
+msgid "Tooltip"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:642
+msgid "Title Top Border"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:643
+msgid "Left Border & Pattren"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:644
+msgid "Bottom Border"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:645
+msgid "Tooltip Border"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:646
+msgid "Boxed Modern"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:647
+msgid "Elegant Border"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:648
+msgid "Needle"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:649
+msgid "Ribbon"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:650
+msgid "Content Background"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:651
+msgid "Classic BG"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:652
+msgid "Tiny Boders"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:653
+msgid "BG & Border"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:654
+msgid "Classic BG Alt"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:655
+msgid "Left Border & BG"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:656
+msgid "Basic"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:657
+msgid "BG & Pattern"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:661
+msgid "Choose the style of sidebar widget title."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:667
+msgid "Custom Widget Area"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:668
+msgid "Add New"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:669
+msgid "Add New Widget Area"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:691
+msgid "Woocommerce"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:698
+msgid "Woocommerce Shop Page Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:704
+msgid "Products Per Page"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:705
+msgid "Number of products to show in catalog / shop page"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:712
+msgid "Product Style"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:714
+msgid "Thick Border"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:715
+msgid "Diamond Icons"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:717
+msgid "Easing"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:719
+msgid "Easing Alt"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:720
+msgid "Parallel"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:721
+msgid "Pointer"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:723
+msgid "Bouncy"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:724
+msgid "Masked Circle"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:729
+msgid "Choose products style to display shop & archive pages."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:735
+msgid "Product Layout"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:750
+msgid "Product Detail Page Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:756
+#: ../cs-framework-override/config/framework.config.php:798
+#: ../cs-framework-override/config/framework.config.php:833
+#: ../cs-framework-override/config/metabox.config.php:66
+msgid "Layout"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:772
+#: ../cs-framework-override/config/framework.config.php:814
+#: ../cs-framework-override/config/framework.config.php:849
+msgid "Show Shop Standard Left Sidebar"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:779
+#: ../cs-framework-override/config/framework.config.php:821
+#: ../cs-framework-override/config/framework.config.php:856
+msgid "Show Shop Standard Right Sidebar"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:786
+msgid "Show Related Products"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:787
+msgid "YES! to display related products on single product's page."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:792
+msgid "Product Category Page Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:827
+msgid "Product Tag Page Options"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:869
+#: ../cs-framework-override/config/framework.config.php:876
+#: ../cs-framework-override/config/framework.config.php:882
+msgid "Sociable"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:883
+msgid "Click button to add type of social & url."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:884
+msgid "Add New Social"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:885
+msgid "Adding New Social Field"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:890
+msgid "Select Social"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:892
+msgid "Delicious"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:893
+msgid "Deviantart"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:894
+msgid "Digg"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:895
+msgid "Dribbble"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:896
+msgid "Envelope"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:897
+msgid "Facebook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:898
+msgid "Flickr"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:899
+msgid "Google Plus"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:900
+msgid "GTalk"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:901
+msgid "Instagram"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:902
+msgid "Lastfm"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:903
+msgid "Linkedin"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:904
+msgid "Pinterest"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:905
+msgid "Reddit"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:906
+msgid "RSS"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:907
+msgid "Skype"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:908
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:909
+msgid "Tumblr"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:910
+msgid "Twitter"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:911
+msgid "Viadeo"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:912
+msgid "Vimeo"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:913
+msgid "Yahoo"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:914
+msgid "Youtube"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:923
+msgid "Enter URL"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:936
+msgid "Hooks"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:943
+#: ../cs-framework-override/config/framework.config.php:956
+msgid "Top Hook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:949
+msgid "Enable Top Hook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:950
+msgid "YES! to enable top hook."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:957
+msgid "Paste your top hook, Executes after the opening &lt;body&gt; tag."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:962
+#: ../cs-framework-override/config/framework.config.php:975
+msgid "Content Before Hook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:968
+msgid "Enable Content Before Hook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:969
+msgid "YES! to enable content before hook."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:976
+msgid ""
+"Paste your content before hook, Executes before the opening &lt;#primary&gt; "
+"tag."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:981
+#: ../cs-framework-override/config/framework.config.php:994
+msgid "Content After Hook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:987
+msgid "Enable Content After Hook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:988
+msgid "YES! to enable content after hook."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:995
+msgid ""
+"Paste your content after hook, Executes after the closing &lt;/#main&gt; tag."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1000
+#: ../cs-framework-override/config/framework.config.php:1013
+msgid "Bottom Hook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1006
+msgid "Enable Bottom Hook"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1007
+msgid "YES! to enable bottom hook."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1014
+msgid "Paste your bottom hook, Executes after the closing &lt;/body&gt; tag."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1020
+msgid "Enable Tracking Code"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1021
+msgid "YES! to enable site tracking code."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1027
+msgid "Google Analytics Tracking Code"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1028
+msgid ""
+"Enter your Google tracking id (UA-XXXXX-X) here. If you want to offer your "
+"visitors the option to stop being tracked you can place the shortcode "
+"[dt_sc_privacy_google_tracking] somewhere on your site"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1039
+#: ../cs-framework-override/config/framework.config.php:1046
+msgid "Custom Fonts"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1052
+msgid "Custom Font"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1053
+msgid "Click button to add font name & urls."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1054
+msgid "Add New Font"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1055
+msgid "Adding New Font Field"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1060
+msgid "Font Name"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1066
+msgid "Upload File (*.woff)"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1067
+msgid "You can upload custom font family (*.woff) file here."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1073
+msgid "Upload File (*.woff2)"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1074
+msgid "You can upload custom font family (*.woff2) file here."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1087
+msgid "Backup"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1094
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1109
+msgid " Log"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1115
+msgid " Theme Change Log"
+msgstr ""
+
+#: ../cs-framework-override/config/framework.config.php:1244
+msgid "Plugin Options"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:26
+#: ../cs-framework-override/config/metabox.config.php:46
+#: ../cs-framework-override/config/metabox.config.php:199
+msgid "Select a slider"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:81
+msgid "Layout \"fullwidth\" only apply for portfolio template."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:93
+msgid "Choose Left Widget Areas"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:98
+msgid "Select Left Widget Areas"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:112
+msgid "Choose Right Widget Areas"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:117
+msgid "Select Right Widget Areas"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:130
+#: ../kirki/options/site-typography.php:6
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:164
+#: ../cs-framework-override/config/metabox.config.php:197
+msgid "Slider"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:171
+msgid "Slider tab works only if breadcrumb disabled."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:179
+msgid "Show Slider"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:187
+msgid "Top Header Relative"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:188
+msgid "Top Header Absolute"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:189
+msgid "Bottom Header"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:200
+msgid "Layer slider"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:201
+msgid "Revolution slider"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:202
+msgid "Custom Slider Shortcode"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:211
+msgid "Layer Slider"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:220
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:229
+msgid "Custom Slider Code"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:241
+msgid "Blog Template"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:248
+msgid ""
+"Blog Tab Works only if page template set to Blog Template in Page Attributes"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:284
+msgid "Medium Highlight"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:317
+#: ../cs-framework-override/config/metabox.config.php:437
+msgid "Post Per Page"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:323
+#: ../cs-framework-override/config/metabox.config.php:444
+msgid "Categories"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:325
+#: ../cs-framework-override/config/metabox.config.php:454
+msgid "Select a categories"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:331
+msgid "Select categories to exclude from your blog page."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:336
+msgid "Show Post Format Info"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:342
+msgid "Show Post Author Info"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:348
+msgid "Show Post Date Info"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:354
+msgid "Show Post Comment Info"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:360
+msgid "Show Post Category Info"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:366
+msgid "Show Post Tag Info"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:377
+msgid "Portfolio Template"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:385
+msgid ""
+"Portfolio Tab Works only if page template set to Portfolio Template in Page "
+"Attributes"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:406
+msgid "Modern Title"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:407
+msgid "Title & Icons Overlay"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:408
+msgid "Title Overlay"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:409
+msgid "Icons Only"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:411
+msgid "Minimal Icons"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:412
+msgid "Presentation"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:413
+msgid "Girly"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:414
+msgid "Art"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:421
+msgid "Allow Grid Space"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:423
+msgid "YES! to allow grid space in between portfolio item"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:429
+msgid "Allow Filters"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:431
+msgid "YES! to allow filter options for portfolio items"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:458
+msgid "Select categories to show in portfolio items."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:476
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:482
+msgid "Page Settings"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:495
+msgid "Side Navigation Template"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:503
+msgid ""
+"Side Navigation Tab Works only if page template set to Side Navigation "
+"Template in Page Attributes"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:510
+msgid "Side Navigation Style"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:512
+msgid "Type1"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:513
+msgid "Type2"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:514
+msgid "Type3"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:515
+msgid "Type4"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:516
+msgid "Type5"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:517
+msgid "Type6"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:518
+msgid "Type7"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:519
+msgid "Type8"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:520
+msgid "Type9"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:521
+msgid "Type10"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:529
+msgid "YES! to align right of side navigation."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:535
+msgid "Sticky Side Navigation"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:536
+msgid "YES! to sticky side navigation content."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:542
+msgid "Show Content"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:543
+msgid "YES! to show content in below side navigation."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:549
+msgid "Side Navigation Content"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:550
+msgid "Paste any shortcode content here"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:577
+msgid "Post Format"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:584
+msgid "Show Featured Image"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:586
+msgid "YES! to show featured image"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:594
+#: ../cs-framework-override/config/metabox.config.php:625
+msgid "Standard"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:595
+msgid "Info WithIn Image"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:596
+msgid "Info Over Image Bottom Left"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:597
+msgid "Info Over Image Vertically Center"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:598
+msgid "Info Above Image"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:602
+msgid "Choose post style to display single post."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:608
+#: ../framework/loops/partials/post-info-vertical-image.php:61
+#: ../framework/loops/partials/post-info-vertical-image.php:98
+#: ../framework/loops/partials/post-standard.php:51
+msgid "Views"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:609
+msgid "No.of views of this post."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:615
+#: ../framework/loops/partials/post-info-vertical-image.php:69
+#: ../framework/loops/partials/post-info-vertical-image.php:106
+#: ../framework/loops/partials/post-standard.php:59
+msgid "Likes"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:616
+msgid "No.of likes of this post."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:621
+#: ../framework/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:626
+#: ../framework/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:627
+msgid "Quote"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:628
+msgid "Gallery"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:629
+#: ../cs-framework/fields/gallery/gallery.php:34
+msgid "Image"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:630
+msgid "Video"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:631
+msgid "Audio"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:632
+msgid "Link"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:633
+msgid "Aside"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:634
+msgid "Chat"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:641
+#: ../cs-framework-override/config/metabox.config.php:642
+msgid "Add Images"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:643
+msgid "Edit Images"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:644
+msgid "Remove Images"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:651
+msgid "Select Type"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:654
+msgid "Oembed"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:655
+msgid "Self Hosted"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:662
+msgid "Media URL"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:670
+msgid "Post Settings"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:691
+msgid "Full Width"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:692
+msgid "Minimal Tab"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:693
+msgid "Clean"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:697
+msgid "Your event post page show at most selected style."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:702
+#: ../kirki/options/site-typography.php:188
+msgid "Settings"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:719
+msgid "Header & Footer"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:728
+msgid "Header"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:736
+msgid "Show Header"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:744
+msgid "Choose Header"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:755
+msgid "Select custom header for this page."
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:765
+#: ../kirki/options/site-typography.php:604
+msgid "Footer"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:773
+msgid "Show Footer"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:781
+msgid "Choose Footer"
+msgstr ""
+
+#: ../cs-framework-override/config/metabox.config.php:792
+msgid "Select custom footer for this page."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:171
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:176
+msgid "Default options restored."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:195
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:321
+msgid "Settings saved."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:324
+msgid "Save"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:324
+msgid "Saving..."
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:325
+msgid "Restore"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:328
+#: ../cs-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: ../cs-framework/classes/framework.class.php:332
+msgid "show all options"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:131
+#: ../cs-framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:155
+msgid "ID"
+msgstr ""
+
+#: ../cs-framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( %s )"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:82
+#: ../cs-framework/classes/shortcode.class.php:90
+#: ../cs-framework/fields/textarea/textarea.php:29
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: ../cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../cs-framework/fields/background/background.php:34
+#: ../cs-framework/fields/background/background.php:35
+#: ../cs-framework/fields/upload/upload.php:24
+#: ../cs-framework/fields/upload/upload.php:25
+msgid "Upload"
+msgstr ""
+
+#: ../cs-framework/fields/background/background.php:36
+#: ../cs-framework/fields/upload/upload.php:26
+msgid "Use Image"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: ../cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: ../cs-framework/fields/group/group.php:22
+msgid "Adding"
+msgstr ""
+
+#: ../cs-framework/fields/group/group.php:45
+#: ../cs-framework/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: ../cs-framework/fields/icon/icon.php:25
+#: ../cs-framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: ../cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: ../cs-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: ../cs-framework/fields/image/image.php:30
+msgid "preview"
+msgstr ""
+
+#: ../cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: ../cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: ../cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: ../cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: ../cs-framework/fields/typography/typography.php:107
+#: ../cs-framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: ../cs-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: ../cs-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: ../cs-framework/functions/helpers.php:49
+msgid "This field class is not available!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: ../cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: ../demo-content/default/manifest.php:7
+msgid "Default Demo"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:393
+#: ../framework/class-tgm-plugin-activation.php:912
+#: ../framework/class-tgm-plugin-activation.php:2618
+#: ../framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:394
+#: ../framework/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1019
+#: ../framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/loops/content-archive.php:136 ../tpl-blog.php:292
+msgid "Nothing Found."
+msgstr ""
+
+#: ../framework/loops/content-archive.php:137 ../tpl-blog.php:293
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../framework/loops/content-page.php:13
+#: ../framework/loops/partials/post-info-above-image.php:94
+#: ../framework/loops/partials/post-info-bottom-image.php:93
+#: ../framework/loops/partials/post-info-vertical-image.php:130
+#: ../framework/loops/partials/post-info-within-image.php:96
+#: ../framework/loops/partials/post-single-flat.php:104
+#: ../framework/loops/partials/post-standard.php:82
+msgid " Edit "
+msgstr ""
+
+#: ../framework/loops/content-single.php:22
+msgid "About Author"
+msgstr ""
+
+#: ../framework/loops/content-single.php:38
+msgid "Prev Entry"
+msgstr ""
+
+#: ../framework/loops/content-single.php:39
+msgid "Next Entry"
+msgstr ""
+
+#: ../framework/loops/partials/entry-thumb.php:38
+#: ../framework/loops/partials/post-info-above-image.php:48
+#: ../framework/loops/partials/post-info-bottom-image.php:49
+#: ../framework/loops/partials/post-info-vertical-image.php:49
+#: ../framework/loops/partials/post-info-vertical-image.php:86
+#: ../framework/loops/partials/post-info-within-image.php:49
+#: ../framework/loops/partials/post-single-flat.php:63
+#: ../framework/loops/partials/post-standard.php:39
+#: ../framework/register-post-functions.php:182
+#: ../framework/register-post-functions.php:195
+#: ../framework/register-post-functions.php:243
+#: ../framework/register-post-functions.php:315
+#: ../framework/register-post-functions.php:399
+#: ../framework/register-post-functions.php:467
+#: ../framework/register-post-functions.php:538
+#: ../framework/register-post-functions.php:595
+#: ../framework/register-post-functions.php:684
+#: ../framework/register-post-functions.php:743
+#: ../framework/register-post-functions.php:827
+#: ../framework/register-post-functions.php:900
+#: ../framework/register-post-functions.php:957
+#: ../framework/register-post-functions.php:1042 ../tpl-portfolio.php:314
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../framework/loops/partials/post-info-above-image.php:52
+#: ../framework/loops/partials/post-info-bottom-image.php:53
+#: ../framework/loops/partials/post-info-within-image.php:53
+#: ../framework/register-post-functions.php:750
+msgid "By"
+msgstr ""
+
+#: ../framework/loops/partials/post-info-above-image.php:52
+#: ../framework/loops/partials/post-info-bottom-image.php:53
+#: ../framework/loops/partials/post-info-vertical-image.php:53
+#: ../framework/loops/partials/post-info-vertical-image.php:90
+#: ../framework/loops/partials/post-info-within-image.php:53
+#: ../framework/loops/partials/post-single-flat.php:52
+#: ../framework/loops/partials/post-standard.php:43
+#: ../framework/register-post-functions.php:237
+#: ../framework/register-post-functions.php:328
+#: ../framework/register-post-functions.php:384
+#: ../framework/register-post-functions.php:461
+#: ../framework/register-post-functions.php:532
+#: ../framework/register-post-functions.php:608
+#: ../framework/register-post-functions.php:677
+#: ../framework/register-post-functions.php:752
+#: ../framework/register-post-functions.php:821
+#: ../framework/register-post-functions.php:893
+#: ../framework/register-post-functions.php:973
+#: ../framework/register-post-functions.php:1029
+msgid "View all posts by "
+msgstr ""
+
+#: ../framework/loops/partials/post-info-above-image.php:54
+#: ../framework/loops/partials/post-info-bottom-image.php:55
+msgid "On"
+msgstr ""
+
+#: ../framework/loops/partials/post-info-above-image.php:57
+#: ../framework/loops/partials/post-info-bottom-image.php:58
+#: ../framework/loops/partials/post-info-vertical-image.php:58
+#: ../framework/loops/partials/post-info-vertical-image.php:95
+#: ../framework/loops/partials/post-info-within-image.php:58
+#: ../framework/loops/partials/post-standard.php:48
+#: ../framework/register-post-functions.php:389
+msgid "comments"
+msgstr ""
+
+#: ../framework/loops/partials/post-info-above-image.php:57
+#: ../framework/loops/partials/post-info-bottom-image.php:58
+#: ../framework/loops/partials/post-info-vertical-image.php:58
+#: ../framework/loops/partials/post-info-vertical-image.php:95
+#: ../framework/loops/partials/post-info-within-image.php:58
+#: ../framework/loops/partials/post-standard.php:48
+#: ../framework/register-post-functions.php:389
+msgid "comment"
+msgstr ""
+
+#: ../framework/loops/partials/post-info-above-image.php:57
+#: ../framework/loops/partials/post-info-bottom-image.php:58
+#: ../framework/loops/partials/post-info-vertical-image.php:58
+#: ../framework/loops/partials/post-info-vertical-image.php:95
+#: ../framework/loops/partials/post-info-within-image.php:58
+#: ../framework/loops/partials/post-standard.php:48
+#: ../framework/register-post-functions.php:389
+msgid "comments off"
+msgstr ""
+
+#: ../framework/loops/partials/post-info-vertical-image.php:122
+#: ../framework/loops/partials/post-standard.php:74
+msgid "Tag List"
+msgstr ""
+
+#: ../framework/loops/partials/post-info-within-image.php:88
+msgid "Tags"
+msgstr ""
+
+#: ../framework/loops/partials/post-single-flat.php:52
+msgid "Posted by: "
+msgstr ""
+
+#: ../framework/loops/partials/post-single-flat.php:77
+#: ../framework/register-post-functions.php:620
+msgid "Tags : "
+msgstr ""
+
+#: ../framework/loops/partials/post-single-flat.php:81
+msgid "Off"
+msgstr ""
+
+#: ../framework/register-functions.php:54
+msgid "Main Menu"
+msgstr ""
+
+#: ../framework/register-functions.php:72 ../kirki/options/site-skin.php:13
+msgid "Primary Color"
+msgstr ""
+
+#: ../framework/register-functions.php:77 ../kirki/options/site-skin.php:465
+msgid "Secondary Color"
+msgstr ""
+
+#: ../framework/register-functions.php:82 ../kirki/options/site-skin.php:596
+msgid "Tertiary Color"
+msgstr ""
+
+#: ../framework/register-functions.php:273
+msgid "Load more"
+msgstr ""
+
+#: ../framework/register-functions.php:291
+msgid "Prev"
+msgstr ""
+
+#: ../framework/register-functions.php:292
+msgid "Next"
+msgstr ""
+
+#: ../framework/register-functions.php:312
+#, php-format
+msgid "Events for %s"
+msgstr ""
+
+#: ../framework/register-functions.php:314
+#, php-format
+msgid "Events for week of %s"
+msgstr ""
+
+#: ../framework/register-functions.php:316
+msgid "Events for"
+msgstr ""
+
+#: ../framework/register-functions.php:319
+msgid "Past Events"
+msgstr ""
+
+#: ../framework/register-functions.php:321
+#: ../framework/register-functions.php:325
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../framework/register-functions.php:334
+msgid "Tag Archives"
+msgstr ""
+
+#: ../framework/register-functions.php:505
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/register-functions.php:507
+#: ../framework/register-functions.php:534
+msgid "Edit"
+msgstr ""
+
+#: ../framework/register-functions.php:532
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/register-functions.php:537
+msgid "Reply"
+msgstr ""
+
+#: ../framework/register-head.php:70
+msgid "Show Advanced Options"
+msgstr ""
+
+#: ../framework/register-hooks.php:350
+msgid "Home"
+msgstr ""
+
+#: ../framework/register-plugins.php:63
+msgid "DesignThemes LMS Addon "
+msgstr ""
+
+#: ../framework/register-plugins.php:71
+msgid "DesignThemes Core Features Plugin"
+msgstr ""
+
+#: ../framework/register-plugins.php:79
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../framework/register-plugins.php:85
+msgid "WooCommerce - excelling eCommerce"
+msgstr ""
+
+#: ../framework/register-plugins.php:91
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../framework/register-plugins.php:97
+msgid "The Events Calendar"
+msgstr ""
+
+#: ../framework/register-plugins.php:103
+msgid "Unyson"
+msgstr ""
+
+#: ../framework/register-plugins.php:109
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../framework/register-plugins.php:116
+msgid "Kirki Toolkit"
+msgstr ""
+
+#: ../framework/register-post-functions.php:118
+msgid "Already"
+msgstr ""
+
+#: ../framework/register-post-functions.php:147
+msgid "Security check"
+msgstr ""
+
+#: ../framework/register-post-functions.php:230
+#: ../framework/register-post-functions.php:454
+#: ../framework/register-post-functions.php:814
+msgid "Posted on "
+msgstr ""
+
+#: ../framework/register-post-functions.php:242
+#: ../framework/register-post-functions.php:314
+#: ../framework/register-post-functions.php:398
+#: ../framework/register-post-functions.php:466
+#: ../framework/register-post-functions.php:537
+#: ../framework/register-post-functions.php:594
+#: ../framework/register-post-functions.php:683
+#: ../framework/register-post-functions.php:742
+#: ../framework/register-post-functions.php:826
+#: ../framework/register-post-functions.php:899
+#: ../framework/register-post-functions.php:954
+#: ../framework/register-post-functions.php:1041
+#: ../framework/register-woocommerce.php:531
+#: ../framework/register-woocommerce.php:710
+msgid "Featured"
+msgstr ""
+
+#: ../framework/register-post-functions.php:382
+msgid "by"
+msgstr ""
+
+#: ../framework/register-post-functions.php:392
+#: ../framework/register-post-functions.php:394
+msgid "in "
+msgstr ""
+
+#: ../framework/register-post-functions.php:414
+msgid "Continue Reading..."
+msgstr ""
+
+#: ../framework/register-post-functions.php:619
+msgid "In : "
+msgstr ""
+
+#: ../framework/register-post-functions.php:888
+msgid "1 Comment"
+msgstr ""
+
+#: ../framework/register-post-functions.php:888
+msgid "% Comments"
+msgstr ""
+
+#: ../framework/register-post-functions.php:888
+#: ../framework/register-post-functions.php:976
+msgid "Comments Off"
+msgstr ""
+
+#: ../framework/register-post-functions.php:973
+msgid "By "
+msgstr ""
+
+#: ../framework/register-post-functions.php:976
+msgid "Comments"
+msgstr ""
+
+#: ../framework/register-widgets.php:17
+msgid "Standard | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:19
+msgid "Appears in the Left side of the site, one enabled."
+msgstr ""
+
+#: ../framework/register-widgets.php:27
+msgid "Standard | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:29
+msgid "Appears in the Right side of the site, one enabled."
+msgstr ""
+
+#: ../framework/register-widgets.php:46
+msgid "Custom sidebar created in Designthemes Framework."
+msgstr ""
+
+#: ../framework/register-widgets.php:59 ../framework/register-widgets.php:81
+msgid "Post Archives | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:61 ../framework/register-widgets.php:83
+msgid "Appears in the Left side of Post Archives Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:70 ../framework/register-widgets.php:90
+msgid "Post Archives | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:72 ../framework/register-widgets.php:92
+msgid "Appears in the Right side of Post Archives Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:104
+msgid "Events | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:106
+msgid "Main sidebar for The Events Calendar pages that appears on the left."
+msgstr ""
+
+#: ../framework/register-widgets.php:114
+msgid "Events | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:116
+msgid "Main sidebar for The Events Calendar pages that appears on the right."
+msgstr ""
+
+#: ../framework/register-widgets.php:130 ../framework/register-widgets.php:152
+msgid "Portfolio Archives | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:132 ../framework/register-widgets.php:154
+msgid "Appears in the Left side of Portfolio Archives Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:141 ../framework/register-widgets.php:161
+msgid "Portfolio Archives | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:143 ../framework/register-widgets.php:163
+msgid "Appears in the Right side of Portfolio Archives Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:176
+msgid "Shop | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:178
+msgid "Main sidebar for The Shop pages that appears on the left."
+msgstr ""
+
+#: ../framework/register-widgets.php:186
+msgid "Shop | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:188
+msgid "Main sidebar for The Shop pages that appears on the right."
+msgstr ""
+
+#: ../framework/register-widgets.php:200 ../framework/register-widgets.php:222
+msgid "Product Detail | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:202 ../framework/register-widgets.php:224
+msgid "Appears in the Left side of Product details Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:211 ../framework/register-widgets.php:231
+msgid "Product Detail | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:213 ../framework/register-widgets.php:233
+msgid "Appears in the Right side of Product details Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:247 ../framework/register-widgets.php:269
+msgid "Product Category | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:249 ../framework/register-widgets.php:271
+msgid "Appears on Left side of Product Category Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:258 ../framework/register-widgets.php:278
+msgid "Product Category | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:260 ../framework/register-widgets.php:280
+msgid "Appears on Right side of Product Category Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:294 ../framework/register-widgets.php:316
+msgid "Product Tag | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:296 ../framework/register-widgets.php:318
+msgid "Appears on Left side of Product Tag Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:305 ../framework/register-widgets.php:325
+msgid "Product Tag | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:307 ../framework/register-widgets.php:327
+msgid "Appears on Right side of Product Tag Page."
+msgstr ""
+
+#: ../framework/register-woocommerce.php:525
+msgid "Sale"
+msgstr ""
+
+#: ../framework/register-woocommerce.php:528
+#: ../framework/register-woocommerce.php:707
+msgid "Out of Stock"
+msgstr ""
+
+#: ../framework/register-woocommerce.php:704
+msgid "Sale!"
+msgstr ""
+
+#: ../kirki/include-kirki.php:54
+msgid ""
+"A plugin is required to take advantage of this theme's features in the "
+"customizer."
+msgstr ""
+
+#: ../kirki/include-kirki.php:55
+msgid "Install Kirki Toolkit now"
+msgstr ""
+
+#: ../kirki/include-kirki.php:56
+msgid "Install Now"
+msgstr ""
+
+#: ../kirki/include-kirki.php:59
+msgid ""
+"You have installed Kirki. Activate it to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+
+#: ../kirki/include-kirki.php:60
+msgid "Activate Kirki Toolkit now"
+msgstr ""
+
+#: ../kirki/include-kirki.php:61
+msgid "Activate Now"
+msgstr ""
+
+#: ../kirki/index.php:44
+msgid "Logo ?"
+msgstr ""
+
+#: ../kirki/index.php:48
+msgid "Switch to Site title or Logo"
+msgstr ""
+
+#: ../kirki/index.php:50 ../kirki/index.php:59
+#: ../template-parts/content-header.php:27
+msgid "Logo"
+msgstr ""
+
+#: ../kirki/index.php:51
+msgid "Site Title"
+msgstr ""
+
+#: ../kirki/index.php:72
+msgid "Site Title Color"
+msgstr ""
+
+#: ../kirki/index.php:88
+msgid "Light Logo"
+msgstr ""
+
+#: ../kirki/index.php:108
+msgid "Typography"
+msgstr ""
+
+#: ../kirki/index.php:109
+msgid "Typography Settings"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:171
+msgid "Top Left"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:172
+msgid "Top Center"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:173
+msgid "Top Right"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:174
+msgid "Center Left"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:175
+msgid "Center Center"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:176
+msgid "Center Right"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:177
+msgid "Bottom Left"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:178
+msgid "Bottom Center"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:179
+msgid "Bottom Right"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:187
+msgid "Repeat"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:188
+msgid "Repeat in X-axis"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:189
+msgid "Repeat in Y-axis"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:190
+msgid "No Repeat"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:199 ../kirki/options/site-layout.php:49
+msgid "None"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:200
+msgid "Dotted"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:201
+msgid "Dashed"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:202
+msgid "Solid"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:203
+msgid "Double"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:204
+msgid "Groove"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:205
+msgid "Ridge"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:215
+msgid "bigEntrance"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:216
+msgid "bounce"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:217
+msgid "bounceIn"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:218
+msgid "bounceInDown"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:219
+msgid "bounceInLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:220
+msgid "bounceInRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:221
+msgid "bounceInUp"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:222
+msgid "bounceOut"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:223
+msgid "bounceOutDown"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:224
+msgid "bounceOutLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:225
+msgid "bounceOutRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:226
+msgid "bounceOutUp"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:227
+msgid "expandOpen"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:228
+msgid "expandUp"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:229
+msgid "fadeIn"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:230
+msgid "fadeInDown"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:231
+msgid "fadeInDownBig"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:232
+msgid "fadeInLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:233
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:234
+msgid "fadeInRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:235
+msgid "fadeInRightBig"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:236
+msgid "fadeInUp"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:237
+msgid "fadeInUpBig"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:238
+msgid "fadeOut"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:239
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:240
+msgid "fadeOutLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:241
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:242
+msgid "fadeOutRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:243
+msgid "fadeOutUp"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:244
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:245
+msgid "flash"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:246
+msgid "flip"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:247
+msgid "flipInX"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:248
+msgid "flipInY"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:249
+msgid "flipOutX"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:250
+msgid "flipOutY"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:251
+msgid "floating"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:252
+msgid "hatch"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:253
+msgid "hinge"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:254
+msgid "lightSpeedIn"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:255
+msgid "lightSpeedOut"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:256
+msgid "pullDown"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:257
+msgid "pullUp"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:258
+msgid "pulse"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:259
+msgid "rollIn"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:260
+msgid "rollOut"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:261
+msgid "rotateIn"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:262
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:263
+msgid "rotateInDownRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:264
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:265
+msgid "rotateInUpRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:266
+msgid "rotateOut"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:267
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:268
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:269
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:270
+msgid "shake"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:271
+msgid "slideDown"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:272
+msgid "slideExpandUp"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:273
+msgid "slideLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:274
+msgid "slideRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:275
+msgid "slideUp"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:276
+msgid "stretchLeft"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:277
+msgid "stretchRight"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:278
+msgid "swing"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:279
+msgid "tada"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:280
+msgid "tossing"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:281
+msgid "wobble"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:282
+msgid "fadeOutDown"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:283
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: ../kirki/kirki-utils.php:284
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: ../kirki/options/custom-js.php:5
+msgid "Additional JS"
+msgstr ""
+
+#: ../kirki/options/custom-js.php:14
+msgid "Enable Custom JS?"
+msgstr ""
+
+#: ../kirki/options/custom-js.php:17 ../kirki/options/site-layout.php:30
+#: ../kirki/options/site-typography.php:19
+#: ../kirki/options/site-typography.php:69
+#: ../kirki/options/site-typography.php:120
+#: ../kirki/options/site-typography.php:179
+#: ../kirki/options/site-typography.php:241
+#: ../kirki/options/site-typography.php:304
+#: ../kirki/options/site-typography.php:367
+#: ../kirki/options/site-typography.php:430
+#: ../kirki/options/site-typography.php:493
+#: ../kirki/options/site-typography.php:556
+#: ../kirki/options/site-typography.php:617
+#: ../kirki/options/site-typography.php:656
+msgid "Yes"
+msgstr ""
+
+#: ../kirki/options/custom-js.php:18 ../kirki/options/site-layout.php:31
+#: ../kirki/options/site-typography.php:20
+#: ../kirki/options/site-typography.php:70
+#: ../kirki/options/site-typography.php:121
+#: ../kirki/options/site-typography.php:180
+#: ../kirki/options/site-typography.php:242
+#: ../kirki/options/site-typography.php:305
+#: ../kirki/options/site-typography.php:368
+#: ../kirki/options/site-typography.php:431
+#: ../kirki/options/site-typography.php:494
+#: ../kirki/options/site-typography.php:557
+#: ../kirki/options/site-typography.php:618
+#: ../kirki/options/site-typography.php:657
+msgid "No"
+msgstr ""
+
+#: ../kirki/options/custom-js.php:28
+msgid "Add Custom JS"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:5 ../kirki/options/site-layout.php:13
+msgid "Site Layout"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:26
+msgid "Customize Boxed Layout?"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:42
+msgid "Background Type"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:47 ../kirki/options/site-layout.php:61
+msgid "Predefined Patterns"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:48
+msgid "Set Pattern"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:62
+msgid "Add Background for body"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:95
+msgid "Background Image"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:96
+msgid "Add Background Image for body"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:112
+msgid "Background Position"
+msgstr ""
+
+#: ../kirki/options/site-layout.php:131
+msgid "Background Repeat"
+msgstr ""
+
+#: ../kirki/options/site-skin.php:5
+msgid "Site Skin"
+msgstr ""
+
+#: ../kirki/options/site-skin.php:643
+msgid "Site BG Color"
+msgstr ""
+
+#: ../kirki/options/site-skin.php:669
+msgid "Site Content Color"
+msgstr ""
+
+#: ../kirki/options/site-skin.php:687
+msgid "Site Link Color"
+msgstr ""
+
+#: ../kirki/options/site-skin.php:705
+msgid "Site Link Hover Color"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:15
+#: ../kirki/options/site-typography.php:613
+msgid "Customize Title ?"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:28
+#: ../kirki/options/site-typography.php:626
+msgid "Title Typography"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:65
+msgid "Customize Link ?"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:78
+msgid "Link Typography"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:116
+#: ../kirki/options/site-typography.php:652
+msgid "Customize Content ?"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:129
+msgid "Customize Typography"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:166
+msgid "Body"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:175
+msgid "Customize Content Typo"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:227
+msgid "Headings"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:237
+msgid "Customize H1 Tag"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:250
+msgid "H1 Tag Settings"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:300
+msgid "Customize H2 Tag"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:313
+msgid "H2 Tag Settings"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:363
+msgid "Customize H3 Tag"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:376
+msgid "H3 Tag Settings"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:426
+msgid "Customize H4 Tag"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:439
+msgid "H4 Tag Settings"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:489
+msgid "Customize H5 Tag"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:502
+msgid "H5 Tag Settings"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:552
+msgid "Customize H6 Tag"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:565
+msgid "H6 Tag Settings"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:665
+msgid "Content Typography"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:680
+msgid "Anchor Color"
+msgstr ""
+
+#: ../kirki/options/site-typography.php:696
+msgid "Anchor Hover Color"
+msgstr ""
+
+#: ../search.php:27
+msgid "Search"
+msgstr ""
+
+#: ../search.php:30
+msgid "Search Result for"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Enter Keyword"
+msgstr ""
+
+#: ../searchform.php:9
+msgid "Go"
+msgstr ""
+
+#: ../single-wpsl_stores.php:62
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../template-parts/content-header.php:55
+msgid "Menu"
+msgstr ""
+
+#: ../tpl-comingsoon.php:39
+msgid "Website is almost ready"
+msgstr ""
+
+#: ../tpl-comingsoon.php:40
+msgid "Our website is under construction."
+msgstr ""
+
+#: ../tpl-comingsoon.php:41
+msgid "We'll be here soon with our new awesome."
+msgstr ""
+
+#: ../tpl-comingsoon.php:56
+msgid "Days"
+msgstr ""
+
+#: ../tpl-comingsoon.php:62
+msgid "Hours"
+msgstr ""
+
+#: ../tpl-comingsoon.php:68
+msgid "Minutes"
+msgstr ""
+
+#: ../tpl-comingsoon.php:74
+msgid "Seconds"
+msgstr ""
+
+#: ../tpl-portfolio.php:224
+msgid "All"
+msgstr ""
+
+#: ../tribe-events/day/single-event.php:78
+#: ../tribe-events/list/single-event.php:76
+#: ../tribe-events/pro/map/single-event.php:81
+msgid "Find out more"
+msgstr ""
+
+#: ../tribe-events/modules/bar.php:30 ../tribe-events/modules/bar.php:56
+#, php-format
+msgid "Find %s"
+msgstr ""
+
+#: ../tribe-events/pro/modules/meta/additional-fields.php:19
+msgid "Other"
+msgstr ""
+
+#: ../tribe-events/pro/single-organizer.php:32
+#: ../tribe-events/pro/single-venue.php:32
+#, php-format
+msgid "&larr; Back to %s"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:4
+#: ../tribe-events/templates/event-type5.php:21
+msgid "All Events"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:6
+#: ../tribe-events/templates/event-type2.php:20
+#: ../tribe-events/templates/event-type3.php:120
+#: ../tribe-events/templates/event-type5.php:22
+msgid "+ Google Calendar"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:8
+#: ../tribe-events/templates/event-type2.php:21
+#: ../tribe-events/templates/event-type3.php:122
+#: ../tribe-events/templates/event-type5.php:23
+msgid "+ iCal Export"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:15
+#: ../tribe-events/templates/event-type2.php:16
+msgid "Recurring Event (See all)"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:45
+#: ../tribe-events/templates/event-type2.php:36
+#: ../tribe-events/templates/event-type3.php:31
+#: ../tribe-events/templates/event-type4.php:29
+#: ../tribe-events/templates/event-type5.php:31
+msgid "Details"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:47
+#: ../tribe-events/templates/event-type2.php:38
+#: ../tribe-events/templates/event-type3.php:37
+#: ../tribe-events/templates/event-type4.php:31
+#: ../tribe-events/templates/event-type5.php:33
+msgid "Start:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:48
+#: ../tribe-events/templates/event-type2.php:39
+#: ../tribe-events/templates/event-type3.php:38
+#: ../tribe-events/templates/event-type4.php:32
+#: ../tribe-events/templates/event-type5.php:34
+msgid "End:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:50
+#: ../tribe-events/templates/event-type2.php:41
+#: ../tribe-events/templates/event-type3.php:40
+#: ../tribe-events/templates/event-type4.php:34
+#: ../tribe-events/templates/event-type5.php:36
+msgid "Cost:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:58
+#: ../tribe-events/templates/event-type1.php:79
+#: ../tribe-events/templates/event-type1.php:104
+#: ../tribe-events/templates/event-type2.php:49
+#: ../tribe-events/templates/event-type2.php:74
+#: ../tribe-events/templates/event-type2.php:104
+#: ../tribe-events/templates/event-type3.php:48
+#: ../tribe-events/templates/event-type3.php:69
+#: ../tribe-events/templates/event-type3.php:96
+#: ../tribe-events/templates/event-type4.php:42
+#: ../tribe-events/templates/event-type4.php:67
+#: ../tribe-events/templates/event-type4.php:109
+#: ../tribe-events/templates/event-type5.php:44
+#: ../tribe-events/templates/event-type5.php:69
+msgid "Website:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:62
+#: ../tribe-events/templates/event-type2.php:57
+#: ../tribe-events/templates/event-type3.php:32
+#: ../tribe-events/templates/event-type4.php:50
+#: ../tribe-events/templates/event-type5.php:52
+msgid "Organizer"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:71
+#: ../tribe-events/templates/event-type1.php:100
+#: ../tribe-events/templates/event-type2.php:66
+#: ../tribe-events/templates/event-type2.php:100
+#: ../tribe-events/templates/event-type3.php:61
+#: ../tribe-events/templates/event-type3.php:92
+#: ../tribe-events/templates/event-type4.php:59
+#: ../tribe-events/templates/event-type4.php:105
+#: ../tribe-events/templates/event-type5.php:61
+msgid "Phone:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:75
+#: ../tribe-events/templates/event-type2.php:70
+#: ../tribe-events/templates/event-type3.php:65
+#: ../tribe-events/templates/event-type4.php:63
+#: ../tribe-events/templates/event-type5.php:65
+msgid "Email:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:83
+#: ../tribe-events/templates/event-type2.php:82
+#: ../tribe-events/templates/event-type3.php:33
+#: ../tribe-events/templates/event-type4.php:84
+#: ../tribe-events/templates/event-type5.php:75
+msgid "Venue"
+msgstr ""
+
+#: ../tribe-events/templates/event-type2.php:85
+#: ../tribe-events/templates/event-type3.php:81
+msgid "Address:"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:63
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:92
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:96
+msgid "Your rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:97
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:98
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:99
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:100
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:101
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:102
+msgid "Very poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:106
+msgid "Your review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""

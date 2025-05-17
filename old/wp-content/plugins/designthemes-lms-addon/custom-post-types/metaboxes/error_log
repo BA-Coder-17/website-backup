@@ -1,0 +1,10 @@
+[08-Nov-2023 00:15:19 UTC] PHP Warning:  Attempt to read property "ID" on null in /home2/profehmn/public_html/wp-content/plugins/designthemes-lms-addon/custom-post-types/metaboxes/certificate-default-metabox.php on line 3
+[08-Nov-2023 00:15:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_create_nonce() in /home2/profehmn/public_html/wp-content/plugins/designthemes-lms-addon/custom-post-types/metaboxes/certificate-default-metabox.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/designthemes-lms-addon/custom-post-types/metaboxes/certificate-default-metabox.php on line 5
+[08-Nov-2023 00:15:19 UTC] PHP Warning:  Attempt to read property "ID" on null in /home2/profehmn/public_html/wp-content/plugins/designthemes-lms-addon/custom-post-types/metaboxes/certificate-default-metabox.php on line 3
+[08-Nov-2023 00:15:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_create_nonce() in /home2/profehmn/public_html/wp-content/plugins/designthemes-lms-addon/custom-post-types/metaboxes/certificate-default-metabox.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/designthemes-lms-addon/custom-post-types/metaboxes/certificate-default-metabox.php on line 5

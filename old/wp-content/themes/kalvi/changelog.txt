@@ -1,0 +1,151 @@
+*** Kalvi WordPress Theme Changelog ***
+
+2022.06.24 - version 3.5
+* LMS AddOn Quiz and Question issue has been fixed
+
+2022.06.14 - version 3.4
+* Shortcode button link issue got fixed
+
+2022.06.06 - version 3.3
+* LMS Addon Plugin got updated - Package issue got fixed
+
+2022.05.13 - version 3.2
+* Quiz related jQuery issue fixed
+
+2022.04.12 - version 3.1
+* Course scrolling tab issue fixed
+
+2022.04.04 - version 3.0
+* Depreciated methods removed.
+
+2022.03.02 - version 2.9
+* Fixed Kirki Customizer Issue
+
+2021.01.23 - version 2.8
+* Compatible with wordpress 5.6
+* Some design issues updated
+* Updated: All premium plugins
+
+
+2020.12.02 - version 2.7
+* Latest jQuery fixes updated
+* Updated: All premium plugins
+
+2020.08.13 - version 2.6
+* Compatible with wordpress 5.5
+
+2020.08.05 - version 2.5
+
+* Updated: Envato Theme check
+* Updated: sanitize_text_field added
+* Updated: All wordpress theme standards
+* Updated: All premium plugins
+
+2020.05.05 - version 2.4
+
+* Updated: Theme switch issue
+* Updated: Social icons target link
+* Updated: Testimonial quote html fix
+* Updated: Envato theme check fix
+* Updated: Prettyphoto issue
+
+2020.03.11 - version 2.3
+
+* Updated : Visual Composer editor fix.
+* Updated : Menu Hover issue
+* Updated : Redirect user from default login form
+
+2020.02.06 - version 2.2
+
+* Updated : All premium plugins
+
+2020.01.29 - version 2.1
+
+* Compatible - WordPress 5.3.2
+* Update - WordPress theme standards
+* Update - Gutenberg editor
+* Update - All premium plugins
+
+2019.11.16 - version 2.0
+
+* Updated all wordpress theme standards
+* Compatible with latest Gutenberg editor
+* Updated: All premium plugins
+* Compatible with wordpress 5.3
+
+2019.08.23 - version 1.9
+
+* Updated: All premium plugins
+* Fixed: LMS Addon Color picker issue
+
+
+2019.07.23 - version 1.8
+* Compatible with wordpress 5.2.2
+* Updated: All premium plugins
+* Updated: Revisions added to all custom post types
+* Updated: Gutenberg editor support for custom post types
+* Updated: Link for phone number module
+* Updated: Online documentation link, check readme file
+
+* Fixed: Customizer logo option
+* Fixed: Google Analytics issue
+* Fixed: Mailchimp email client issue
+* Fixed: Gutenberg check for old wordpress version
+* Fixed: Edit with Visual Composer for portfolio
+* Fixed: Header & Footer wpml option
+* Fixed: Smooth scrolling in ie 11
+* Fixed: Site title color
+* Fixed: Privacy popup bg color
+
+* Improved: Single product breadcrumb section
+* Improved: Tags taxonomy added for portfolio
+* Improved: Woocommerce cart module added with custom class option
+
+* New: Whatsapp Shortcode
+
+2019.05.17 - version 1.7
+* Gutenberg Latest fixes
+* Updated Visual Composer and Layerslider plugins
+
+2019.05.06 - version 1.6
+ * Gutenberg Latest update compatible
+ * Portfolio Video option
+ * Coming Soon page fix
+ * Portfolio archive page breadcrumb fix
+ * Mega menu image fix
+ * GDPR product single page fix
+ * Codestar framework update
+ * Wpml xml file updated
+ * disable options for likes and views in single post page
+ * Updated latest version of all third party plugins
+ * Some design tweaks
+
+2018.12.11 - version 1.5
+
+* Gutenberg block changes updated
+* Compatible with wordpress 5.0
+
+2018.12.03 - version 1.4
+
+ * Updated to latest gutenberg plugin.
+ * Updated WPBakery Page Builder plugin.
+ * Updated Ultimate Addons for WPBakery Page Builder.
+
+2018.10.17 - version 1.3
+ * Gutenberg plugin compatible
+ * GDPR Compliant update in comment form, mailchimp form etc.
+ * Updated documentation.
+ * Updated WPBakery Page Builder plugin.
+ * Updated Ultimate Addons for WPBakery Page Builder.
+ * Updated Events calendar issue.
+ * Class page issue fixed.
+ * Compatible with wordpress 4.9.8
+
+2018.09.19 - version 1.2
+ * Minor bug fixes
+
+2018.09.01 - version 1.1
+ * Updated dummy content
+
+2018.08.30 - version 1.0
+ * First release!

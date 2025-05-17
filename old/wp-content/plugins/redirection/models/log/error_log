@@ -1,0 +1,8 @@
+[08-Nov-2023 00:15:05 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Log" not found in /home2/profehmn/public_html/wp-content/plugins/redirection/models/log/log-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/redirection/models/log/log-404.php on line 6
+[08-Nov-2023 00:15:05 UTC] PHP Fatal error:  Uncaught Error: Class "Red_Log" not found in /home2/profehmn/public_html/wp-content/plugins/redirection/models/log/log-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/profehmn/public_html/wp-content/plugins/redirection/models/log/log-404.php on line 6
