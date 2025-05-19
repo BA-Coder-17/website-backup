@@ -1,5 +1,3 @@
-<!-- Trigger redeploy -->
-
 name: FTP Deploy to BigRock
 
 on:
